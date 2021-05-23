@@ -12,6 +12,7 @@ class WebPage(QWebEnginePage):
         self.loadFinished.connect(self.handleLoadFinished)
 
     def process(self, urls):
+        print(urls)
         self._urls = iter(urls)
         self.fetchNext()
 

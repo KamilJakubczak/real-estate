@@ -19,6 +19,72 @@ class OfferItem:
     offer_type: str = None
     publication_date: str = None
 
+@dataclass
+class OfferDetails:
+    details: str
+    description: str
+    offer_id: int
+    add_date: str
+    update_date: str
+
+class OtodomDetials:
+    def __init__(self, offer_details):
+        self.offer_details = offer_details
+        # print(self.offer_details)
+
+    @classmethod
+    def from_html(cls, article):
+        # print(8*'####****')
+        # print(article)
+        # print(8*'****')
+        offer = OfferDetails(
+            description=cls.get_from_article(
+                article,'div', 'css-rwppy9 e1r1048u1'),
+            details=cls.get_from_article(
+                article, 'div', 'css-1d9dws4 egzohkh2'),
+            offer_id=cls.get_from_article(
+                article, 'div', 'css-jjerc6 euuef473')[20:],
+            add_date=cls.get_from_article(
+                article, 'div', 'css-gqksao euuef471'),
+            update_date=cls.get_from_article(
+                article, 'div', 'css-yrwank euuef470'),
+        )
+        print(offer.offer_id, type(offer.offer_id))
+        return cls(offer)
+
+    @staticmethod
+    def get_from_article( article, tag, class_):
+        found = article.find(tag, class_=class_)
+        foudn_text = OtodomOffers.get_text_or_tag(found)
+        return foudn_text
+
+    @staticmethod
+    def get_text_or_tag(tag):
+        try:
+            response = ' '.join(tag.contents)
+            return response.strip()
+        except:
+            return tag
+
+    def save_to_db(self):
+        db = Postgres(Config.DSN)
+        try:
+            db.execute(
+                '''
+                INSERT INTO public.otodom_details
+                (details, description, otodom_id, add_date, update_date)
+                VALUES(%s, %s, %s, %s, %s);
+                ''',[
+                    str(self.offer_details.details),
+                    str(self.offer_details.description),
+                    int(self.offer_details.offer_id),
+                    str(self.offer_details.add_date),
+                    str(self.offer_details.update_date),
+                    ]
+                )
+        except Exception as e:
+            print(e)
+        db.commit()
 
 class OtodomOffers:
     def __init__(self, offer):
@@ -108,8 +174,8 @@ class OtodomOffers:
                     str(self.offer.url)
                     ]
                 )
-        except:
-            pass
+        except Exception as e:
+            print(f'DB SAVE ERROR {str(e)}')
         db.commit()
 
 
@@ -150,7 +216,7 @@ class MorizonOffers:
 
 
     @staticmethod
-    def get_from_article( article, tag, class_=None):
+    def get_from_article(article, tag, class_=None):
         if not class_:
             found = article.find(tag)
         else:
