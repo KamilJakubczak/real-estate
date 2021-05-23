@@ -21,7 +21,8 @@ class Downloader(ABC):
             try:
                 offer = self.create_from_html(item)
                 offer.save_to_db()
-            except (KeyError, AttributeError):
+            except (KeyError, AttributeError) as e:
+                print(str(e))
                 pass
 
     def my_html_processor(self, html, url):
@@ -49,7 +50,10 @@ class Downloader(ABC):
 
 class OtodomDownloader(Downloader):
     
-    link = 'https://www.otodom.pl/sprzedaz/mieszkanie/warszawa/?search%5Bfilter_float_price%3Ato%5D=500000&search%5Bfilter_float_m%3Afrom%5D=40&search%5Bfilter_float_build_year%3Afrom%5D=1990&search%5Bcity_id%5D=26&nrAdsPerPage=72&page={}'
+    # Bemowo z filtrami
+    # link = 'https://www.otodom.pl/sprzedaz/mieszkanie/warszawa/?search%5Bfilter_float_price%3Ato%5D=500000&search%5Bfilter_float_m%3Afrom%5D=40&search%5Bfilter_float_build_year%3Afrom%5D=1990&search%5Bcity_id%5D=26&nrAdsPerPage=72&page={}'
+    # Warszawa
+    link = 'https://www.otodom.pl/sprzedaz/mieszkanie/warszawa/?search%5Bcity_id%5D=26&nrAdsPerPage=72'
     search = 'article' 
     model = OtodomOffers
 
@@ -66,6 +70,7 @@ def from_file():
     soup = bs.BeautifulSoup(html, 'lxml')
     offers = soup.findAll('div', 'row row--property-list')
     save_results(offers)
+
 providers = {
     'morizon': MorizonDownloader,
     'otodom': OtodomDownloader

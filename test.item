@@ -1,0 +1,3482 @@
+<div class="v73" id="background">
+<script type="text/javascript">VSR.run(function(){ LastSearchedTools.saveSearch('2957bc369275d13bb3ed072f5b2f71fd', 'eyJpZCI6IjI5NTdiYzM2OTI3NWQxM2JiM2VkMDcyZjViMmY3MWZkIiwic2VyaWFsIjoiZXlKc2IyTmhkR2x2YmlJNmV5SjBlWEJsSWpveExDSjBaWGgwSWpvaVYyRnljM3BoZDJFZ1FtVnRiM2R2SWl3aWMyVnNaV04wWDJ4bGRtVnNNQ0k2TVRBc0luUmxlSFJmY1hWbGRXVWlPbHNpVjJGeWMzcGhkMkVnUW1WdGIzZHZJbDE5TENKMGVYQmxJam94TENKMGNtRnVjMkZqZEdsdmJpSTZNU3dpWVdSMllXNWpaV1JmYzJWaGNtTm9Jam94ZlE9PSIsInNldCI6MTYyMTE5MDE5MSwiZm9ybV9jbGFzcyI6MSwic2VhcmNoX25hbWUiOiJPZ1x1MDE0Mm9zemVuaWEiLCJ0eXBlIjoibWllc3prYW5pZSIsInRyYW5zYWN0aW9uIjoibmEgc3ByemVkYVx1MDE3YyIsImxvY2F0aW9uIjoiV2Fyc3phd2EgQmVtb3dvIiwidXJsIjoiXC9taWVzemthbmlhXC93YXJzemF3YVwvYmVtb3dvXC8ifQ=='); }, ["LastSearchedTools","LastViewedTools"]);</script>
+<header id="siteHeader">
+<nav class="clearfix" id="morizonMenu">
+<div class="main-menu">
+<div class="siteLogo">
+<a class="morizonLogo" href="/"><img alt="Morizon.pl" src="https://staticmorizon.com.pl/images/logo.v5.svg"/></a> <a class="onetLogo" href="https://www.onet.pl/?utm_source=morizon&amp;utm_medium=logo&amp;utm_campaign=barter_202006" target="_blank"><img alt="" src="https://staticmorizon.com.pl/images/partnerOnet.svg" type="image/svg+xml"/></a> </div>
+<ul class="list-unstyled" id="menuElements">
+<li class="buyMenu buyMenuActive" data-menu="buyMenu">
+<span>Kup</span>
+</li>
+<li class="rentMenu" data-menu="rentMenu">
+<span>Wynajmij</span>
+</li>
+<li class="base" data-menu="base">
+<a href="/nowe-inwestycje/">Nowe inwestycje</a> </li>
+<li class="companiesMenu" data-menu="companiesMenu">
+<span>Firmy i specjaliści</span>
+</li>
+<span class="dividerVertical"></span>
+<li class="blogMenu" data-menu="blogMenu">
+<a href="https://www.morizon.pl/blog">Blog</a> </li>
+<li class="base financesLink" data-menu="base">
+<a href="https://www.lendi.pl/ekspert-online/?utm_entry_page={{utm_entry_page}}&amp;utm_fp_partner_id=551&amp;utm_fp_source_id=5&amp;utm_medium={{utm_medium}}&amp;utm_keyword=kredyty&amp;utm_interest=installment_calculation&amp;utm_channel=referer_internal&amp;utm_form=menu_nav&amp;utm_data_grabber=eko&amp;utm_loan_category=Mortgage">Kredyty</a> </li>
+</ul>
+<ul class="list-unstyled" id="userElements">
+<li class="propertyAdd">
+<a data-stat="pab" href="/zgloszenie" id="propertyAddButtonTop"><span></span><p class="propertyAdd__advert">DODAJ OGŁOSZENIE</p></a> </li>
+<li class="userAccount">
+<a href="/zapamietane" title="Zapamiętane"><span><span class="ico_heart"></span><span class="circleNumber"></span></span></a> </li>
+</ul>
+</div>
+<div class="submenu">
+<div class="morizonSubmenu buyMenu buyMenuActive" style="display: none;">
+<div class="morizonSubmenu__container">
+<ul class="list-unstyled morizonSubmenu__menu aftermarketList">
+<li>
+<a href="/mieszkania/" title="Mieszkania na sprzedaż">Mieszkanie</a> </li>
+<li>
+<a href="/domy/" title="Domy na sprzedaż">Dom</a> </li>
+<li>
+<a href="/dzialki/" title="Działki na sprzedaż">Działkę</a> </li>
+<li>
+<a href="/sprzedaz/garaze/" title="Garaże na sprzedaż">Garaż</a> </li>
+<li>
+<a href="/komercyjne/" title="Nieruchomości komercyjne na sprzedaż">Nieruchomość komercyjną</a> </li>
+</ul>
+<ul class="list-unstyled morizonSubmenu__menu developerList">
+<h3 class="morizonSubmenu__menu__title">Od dewelopera</h3>
+<li>
+<a href="/nowe-mieszkania/" title="Nowe mieszkania na sprzedaż">Nowe mieszkanie</a> </li>
+<li>
+<a href="/nowe-domy/" title="Nowe domy na sprzedaż">Nowy dom</a> </li>
+<li>
+<a href="/nowe-komercyjne/" title="Nowe nieruchomości komercyjne na sprzedaż">Nieruchomość komercyjną</a> </li>
+<li class="divider"></li>
+<li>
+<a href="/nowe-inwestycje/">Prezentacje inwestycji</a> </li>
+<li>
+<a href="/promocje-deweloperskie/">Promocje</a> </li>
+<li>
+<a href="/dni-otwarte/">Dni otwarte</a> </li>
+</ul>
+<ul class="list-unstyled morizonSubmenu__menu foreignList">
+<h3 class="morizonSubmenu__menu__title">Za granicą</h3>
+<li>
+<a href="/mieszkania/zagranica/">Mieszkanie za granicą</a> </li>
+<li>
+<a href="/domy/zagranica/">Dom za granicą</a> </li>
+<li>
+<a href="/dzialki/zagranica/">Działkę za granicą</a> </li>
+</ul>
+<span class="dividerVertical"></span>
+<ul class="list-unstyled morizonSubmenu__menu blogList">
+<h3 class="morizonSubmenu__menu__title">Na blogu</h3>
+<li>
+<a href="https://www.morizon.pl/blog/pierwsze-zamieszkanie-w-domu-13-rzeczy-o-ktorych-musisz-pamietac/">Twój pierwszy dom – 13 rzeczy, które musisz wiedzieć.</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/na-co-zwrocic-uwage-przy-kupnie-mieszkania/">Na co zwrócić uwagę przy kupnie mieszkania na rynku wtórnym.</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/jak-sprawdzic-inwestycje-mieszkaniowa/">Deweloper pod lupą – jak sprawdzić inwestycję mieszkaniową?</a> </li>
+</ul>
+</div>
+</div>
+<div class="morizonSubmenu rentMenu" style="display: none;">
+<div class="morizonSubmenu__container">
+<ul class="list-unstyled morizonSubmenu__menu fromSomebody">
+<h3 class="morizonSubmenu__menu__title">Od kogoś</h3>
+<li>
+<a href="/do-wynajecia/mieszkania/" title="Mieszkania do wynajęcia">Mieszkanie</a> </li>
+<li>
+<a href="/do-wynajecia/domy/" title="Domy do wynajęcia">Dom</a> </li>
+<li>
+<a href="/do-wynajecia/pokoje/" title="Pokoje do wynajęcia">Pokój</a> </li>
+<li>
+<a href="/do-wynajecia/dzialki/" title="Działki do wynajęcia">Działkę</a> </li>
+<li>
+<a href="/do-wynajecia/garaze/" title="Garaże do wynajęcia">Garaż</a> </li>
+<li>
+<a href="/do-wynajecia/komercyjne/" title="Nieruchomości komercyjne do wynajęcia">Nieruchomość komercyjną</a> </li>
+</ul>
+<ul class="list-unstyled morizonSubmenu__menu forSomebody">
+<h3 class="morizonSubmenu__menu__title">Komuś</h3>
+<li>
+<a href="/zgloszenie/wynajem/mieszkanie" title="Zgłoszenie mieszkania na wynajem">Mieszkanie</a> </li>
+<li>
+<a href="/zgloszenie/wynajem/dom" title="Zgłoszenie domu na wynajem">Dom</a> </li>
+<li>
+<a href="/zgloszenie/wynajem/pokoj" title="Zgłoszenie pokoju na wynajem">Pokój</a> </li>
+<li>
+<a href="/zgloszenie/wynajem/dzialka" title="Zgłoszenie działki na wynajem">Działkę</a> </li>
+<li>
+<a href="/zgloszenie/wynajem/garaz" title="Zgłoszenie garażu na wynajem">Garaż</a> </li>
+<li>
+<a href="/zgloszenie/wynajem/komercyjne" title="Zgłoszenie nieruchomości komercyjnej na wynajem">Nieruchomość komercyjną</a> </li>
+</ul>
+<ul class="list-unstyled morizonSubmenu__menu base">
+<h3 class="morizonSubmenu__menu__title">Za granicą</h3>
+<li>
+<a href="/do-wynajecia/mieszkania/zagranica/">Mieszkanie za granicą</a> </li>
+<li>
+<a href="/do-wynajecia/domy/zagranica/">Dom za granicą</a> </li>
+<li>
+<a href="/do-wynajecia/dzialki/zagranica/">Działkę za granicą</a> </li>
+</ul>
+<span class="dividerVertical"></span>
+<ul class="list-unstyled morizonSubmenu__menu blogListRent">
+<h3 class="morizonSubmenu__menu__title">Na blogu</h3>
+<li>
+<a href="https://www.morizon.pl/blog/wynajem-mieszkania-20-pytan-do-prawnika/">Wynajem mieszkania - 20 mniej oczywistych pytań do prawnika.</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/jak-wynajac-mieszkanie-10-argumentow/">10 argumentów negocjacyjnych <br/>w rozmowie z właścicielem mieszkania.</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/prawa-i-obowiazki-najemcy-i-wynajmujacego/">Prawa i obowiązki najemcy oraz wynajmującego.</a> </li>
+</ul>
+</div>
+</div>
+<div class="morizonSubmenu companiesMenu" style="display: none;">
+<div class="morizonSubmenu__container">
+<ul class="list-unstyled morizonSubmenu__menu companyList">
+<h3 class="morizonSubmenu__menu__title">Firmy</h3>
+<li>
+<a href="/biura-nieruchomosci/" title="Współpracujące biura nieruchomości">Biura nieruchomości</a> </li>
+<li>
+<a href="/deweloperzy/">Deweloperzy</a> </li>
+</ul>
+<ul class="list-unstyled morizonSubmenu__menu expertsList">
+<h3 class="morizonSubmenu__menu__title">Specjaliści</h3>
+<li>
+<a href="/profile/">Pośrednicy nieruchomości</a> </li>
+<li>
+<a href="/eksperci-kredytowi/">Eksperci finansowi</a> </li>
+</ul>
+<span class="dividerVertical"></span>
+<ul class="list-unstyled morizonSubmenu__menu blogListCompanies">
+<h3 class="morizonSubmenu__menu__title">Na blogu</h3>
+<li>
+<a href="https://www.morizon.pl/blog/wspolpraca-z-posrednikiem-co-warto-wiedziec/">Współpraca z pośrednikiem - co warto wiedzieć?</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/wiarygodny-deweloper-jak-go-sprawdzic/">Wiarygodny deweloper - jak go sprawdzić?</a> </li>
+</ul>
+<ul class="list-unstyled morizonSubmenu__menu blogListCompanies2">
+<h3 class="morizonSubmenu__menu__title"> </h3>
+<li>
+<a href="https://www.morizon.pl/blog/robic-dobrze-oswietlone-zdjecia-nieruchomosci/">Dobrze oświetlone zdjęcia nieruchomości - jak je robić?</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/ekipa-remontowa-ekipa-budowlana-jak-ja-wybrac/">Ekipa remontowa, ekipa budowlana - jak ją wybrać?</a> </li>
+</ul>
+</div>
+</div>
+<div class="morizonSubmenu blogMenu" style="display: none;">
+<div class="morizonSubmenu__container">
+<ul class="list-unstyled morizonSubmenu__menu lawListCustomers">
+<h3 class="morizonSubmenu__menu__title"><a href="https://www.morizon.pl/blog/kategoria/dla-poszukujacych">Dla poszukujących</a></h3>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-poszukujacych/kupno-sprzedaz/">Kupno i sprzedaż</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-poszukujacych/wynajem">Wynajem</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-poszukujacych/finanse/">Finanse</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-poszukujacych/wzory-umow/">Wzory umów</a> </li>
+<li class="divider"></li>
+<li>
+<a href="https://www.morizon.pl/blog/zapytaj-eksperta/">Zapytaj eksperta</a> </li>
+</ul>
+<ul class="list-unstyled morizonSubmenu__menu blogListTenants">
+<h3 class="morizonSubmenu__menu__title"><a href="https://www.morizon.pl/blog/kategoria/dla-mieszkajacych">Dla już mieszkających</a></h3>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-mieszkajacych/remont-i-wykonczenie/">Remont i wykończenie</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-mieszkajacych/inspiracje/">Inspiracje</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-mieszkajacych/rosliny-i-ogrod/">Rośliny i ogród</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-mieszkajacych/dla-wlascicieli/">Dla właścicieli</a> </li>
+</ul>
+<ul class="list-unstyled morizonSubmenu__menu blogListOwners">
+<h3 class="morizonSubmenu__menu__title"><a href="https://www.morizon.pl/blog/kategoria/dla-profesjonalistow">Dla profesjonalistów</a></h3>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-profesjonalistow/rynek-nieruchomosci/">Rynek nieruchomości</a> </li>
+<li>
+<a href="/ceny/">Ceny nieruchomości</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-profesjonalistow/porady-prawo/">Porady i prawo</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/dla-profesjonalistow/wywiady-i-publicystyka">Wywiady i publicystyka</a> </li>
+</ul>
+<ul class="list-unstyled morizonSubmenu__menu blogListArticles">
+<h3 class="morizonSubmenu__menu__title"><a href="https://www.morizon.pl/blog/kategoria/artykuly/">Artykuły</a></h3>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/artykuly/architektura-i-wnetrza">Architektura i wnętrza</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/artykuly/kultura-mieszkaniowa">Kultura mieszkaniowa</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/artykuly/ciekawostki">Ciekawostki</a> </li>
+</ul>
+<ul class="list-unstyled morizonSubmenu__menu blogListDevelopments">
+<h3 class="morizonSubmenu__menu__title">Nowe inwestycje</h3>
+<li>
+<a href="https://www.morizon.pl/blog/nowe-inwestycje-w-warszawie/">Nowe inwestycje w Warszawie</a> </li>
+<li>
+<a href="https://www.morizon.pl/blog/kategoria/nowe-inwestycje/wiadomosci-od-deweloperow/">Wiadomości deweloperskie</a> </li>
+</ul>
+</div>
+</div>
+</div>
+<div class="lendiSubmenu" style="display: none;">
+<div class="lendiSubmenu__container">
+<div class="lendiOverlay">
+<span class="close"></span>
+<span class="logo"></span>
+<span class="text title">Ekspert kredytowy online</span>
+<span class="text content">Porównaj oferty kredytowe aż 12 banków, zbadaj<br/>swoją zdolność kredytową, policz miesięczną ratę.<br/>Wszystko wygodnie i bezpiecznie z domu.</span>
+<a class="btn" href="https://www.lendi.pl/ekspert-online/?utm_entry_page={{utm_entry_page}}&amp;utm_fp_partner_id=551&amp;utm_fp_source_id=5&amp;utm_medium={{utm_medium}}&amp;utm_keyword=”zobacz więcej”&amp;utm_interest=installment_calculation&amp;utm_channel=referer_internal&amp;utm_form=overlay&amp;utm_data_grabber=eko&amp;utm_loan_category=Mortgage">WYPRÓBUJ EKSPERTA ONLINE</a>
+<img alt="Citi Handlowy" class="bank lazy first" data-original="/images/lendi/citi_handlowy.png" src="/t.gif"/>
+<img alt="Alior Bank" class="bank lazy" data-original="/images/lendi/alior.png" src="/t.gif"/>
+<img alt="ING Bank Śląski" class="bank lazy" data-original="/images/lendi/ing.png" src="/t.gif"/>
+<img alt="mBank" class="bank lazy" data-original="/images/lendi/mbank.png" src="/t.gif"/>
+<img alt="PKO BP" class="bank lazy" data-original="/images/lendi/pko_bp.png" src="/t.gif"/>
+<img alt="Bank Millennium" class="bank lazy" data-original="/images/lendi/millennium.png" src="/t.gif"/>
+<img alt="" bank="" bnp="" class="bank lazy" data-original="/images/lendi/bgz_bnp_paribas.png" paribas="" polska="" src="/t.gif"/>
+<img alt="Credit Agricole" class="bank lazy next" data-original="/images/lendi/credit_agricole.png" src="/t.gif"/>
+<img alt="Pekao S.A." class="bank lazy" data-original="/images/lendi/pekao.png" src="/t.gif"/>
+<img alt="Santander Bank Polska" class="bank lazy" data-original="/images/lendi/santander.png" src="/t.gif"/>
+<img alt="Bank Ochrony Środowiska" class="bank lazy" data-original="/images/lendi/bos.png" src="/t.gif"/>
+</div>
+</div>
+</div>
+</nav>
+<div class="propertySearchForm">
+<div class="searchBox">
+<form class="formLoading" id="ps" method="get" name="ps" onsubmit="return $(this).MyFabulousSearchFormDoubleInput('55484a766347567964486c545a5746795932684762334a74', '59546f334f6e747a4f6a49314f694a7a5a574679593268665a6d397962563977636d39775a584a30655639306558426c496a74704f6a4537637a6f794d446f69646d567964476c6a5957786663325668636d4e6f58325a76636d30694f3249364d54747a4f6a45344f694a336158526f583246736246397362324e6864476c76626e4d694f3249364d54747a4f6a45314f694a745958426663325668636d4e6f58325a76636d30694f3249364d44747a4f6a45314f694a706331397361584e306157356e58335a705a5863694f3249364d54747a4f6a45334f694a7063313974595842666157357064476c6864476c755a794937596a6f774f334d364d6a4136496d466b646d46755932566b58334e6c59584a6a6146396d62334a74496a74694f6a453766513d3d')"> <input class="customHidden" id="ps_advanced_search" name="ps[advanced_search]" type="hidden" value="1"/><input class="customHidden" id="ps_is_exclusive" name="ps[is_exclusive]" type="hidden"/><input class="customHidden" id="ps_sort_order" name="ps[sort_order]" type="hidden"/><input class="customHidden" id="ps_sort_asc" name="ps[sort_asc]" type="hidden"/><input class="customHidden" id="ps_sort_first_property" name="ps[sort_first_property]" type="hidden"/><input class="customHidden" id="ps_company_id" name="ps[company_id]" type="hidden"/><input class="customHidden" id="ps_date_from" name="ps[date_from]" type="hidden"/><input class="customHidden" id="ps_date_to" name="ps[date_to]" type="hidden"/><input class="customHidden" id="ps_ext_prp" name="ps[ext_prp]" type="hidden"/><input class="customHidden" id="ps_location_type" name="ps[location][type]" type="hidden" value="1"/><input class="customHidden" id="ps_location_map" name="ps[location][map]" type="hidden"/>
+<section class="simpleSearchBox">
+<div class="locationField autocompleteContainer">
+<label>Wpisz lokalizację</label>
+<div class="switchToMapCheckbox">
+<input class="customCheckbox" id="ps_switch_to_map" name="ps[switch_to_map]" type="checkbox" value="1"/> <label for="ps_switch_to_map">Pokaż oferty na mapie</label> </div>
+<div id="ps_section_location">
+<a class="switchToMapButton button" href="#">Pokaż oferty na mapie</a>
+<a class="switchToListButton button" href="#">Przełącz na listę</a>
+<div class="ps_section_loc" id="locSearchText" style="display: block;">
+<div class="QueueSearchInput">
+<div id="ps_location_text_errors"></div>
+<div class="search_bar">
+<input class="customText" data-hint="np. kraj, miasto, dzielnica, ulica" id="ps_location_text" name="ps[location][text]" type="text" value="Warszawa Bemowo"/><script type="text/javascript">VSR.run(function(){ $('#ps_location_text').MyAutocomplete('/ajaxLocationSuggest?limit=14', false, '', true); }, [["$","fn","MyAutocomplete"],["$","fn","autocomplete"]]);</script> <div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div class="ps_type">
+<label for="ps_type">Rodzaj nieruchomości</label>
+<select id="ps_type" name="ps[type]">
+<option selected="selected" value="1">mieszkania</option>
+<option value="2">domy</option>
+<option value="4">komercyjne</option>
+<option value="3">działki</option>
+<option value="5">garaże</option>
+<option value="6">pokoje</option>
+<option value="-1">dowolny</option>
+</select>
+</div> <div class="ps_transaction">
+<label for="ps_transaction">Rodzaj transakcji</label>
+<select id="ps_transaction" name="ps[transaction]">
+<option selected="selected" value="1">sprzedaż</option>
+<option value="2">wynajem</option>
+</select>
+</div>
+<div class="multiInput" id="ps_price">
+<div>
+<label for="ps_price_from">Cena w zł</label>
+<div class="staticCompleteContainer"><input autocomplete="off" class="customText" data-hint="od" id="ps_price_from" name="ps[price_from]" placeholder="od" type="text" value="od"/></div>
+<div class="staticCompleteContainer"><input autocomplete="off" class="customText" data-hint="do" id="ps_price_to" name="ps[price_to]" placeholder="do" type="text" value="do"/></div>
+<div class="clear"></div>
+</div>
+</div>
+</section>
+<section class="advancedSearchBox">
+<div class="fabulous_error_box property_search_form_error_box clearfix">
+<div class="errorsHeader">Popraw poniższe błędy:</div>
+<div class="clear"></div>
+</div>
+<div class="fabulous_global_errors clearfix"></div>
+<div class="advanced clearfix"></div>
+<div class="clear"></div>
+<div class="clearfix"></div>
+</section>
+<section class="buttonsSearchBox">
+<div class="moreOptionsBox more arrow" data-less="Zwiń" data-more="Więcej">
+<label>Kryteria</label>
+<div class="moreOptions">
+Więcej </div>
+</div>
+<input class="submitKey" data-message-error="" name="commit" onfocus="blur()" title="" type="submit" value=""/> </section>
+<div class="clear"></div>
+</form></div>
+<div class="clearfix"></div>
+<script>
+VSR.run(function ()
+{
+$('#ps_type').val(
+'1');
+$('#ps_type').change();
+}, ['$']);
+</script>
+<script type="text/javascript">VSR.run(function(){
+$('#ps').PropertySearch({ use_sliders: false });
+}, [["$","fn","PropertySearch"]]);</script></div>
+</header>
+<div class="headerAreaWithPropertySearchForm"></div>
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<nav class="breadcrumbs">
+<span class="item" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/" itemprop="url"><span itemprop="title">morizon.pl</span></a> </span>
+<span class="item" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/mieszkania/" itemprop="url"><span itemprop="title">mieszkania</span></a> </span>
+<span class="item" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/mieszkania/mazowieckie/" itemprop="url"><span itemprop="title">mazowieckie</span></a> </span>
+<span class="item" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="/mieszkania/warszawa/" itemprop="url"><span itemprop="title">Warszawa</span></a> </span>
+<span class="item">
+<span class="upper">
+Warszawa Bemowo </span>
+</span>
+</nav>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="content_pl clearfix" id="contentPage">
+<div class="contentBox">
+<div class="container">
+<div class="row">
+<div class="listingBox mainBox propertyListingBox content-box-main col-xs-9">
+<script type="text/javascript">var __layer = window['reGTMDataLayer'] = window['reGTMDataLayer'] || [];
+__layer.push({"location":{"city":"Warszawa"}});
+window['layerIsPushed'] = true;</script><script type="text/javascript">var __layer = window['reGTMDataLayer'] = window['reGTMDataLayer'] || [];
+__layer.push({"search_param":{"type":"mieszkania","transaction":"sprzeda\u017c","location":"Warszawa Bemowo","market_type":""}});
+window['layerIsPushed'] = true;</script>
+<header class="mz-card mz-card--no-shadow mz-card--listing-sort">
+<div class="mz-card__item">
+<span class="mz-btn mz-btn--default mzn-btn--customers-bank-on-listing">
+Zapisz wyszukiwanie
+</span>
+<div class="customer-bank-on-listing">
+<div class="customer-bank-on-listing__background"></div>
+<div class="mz-card customer-bank-on-listing__modal">
+<div class="customer-bank-on-listing__close"></div>
+<div class="customer-bank-on-listing__content">
+<form data-cbox-type="7" data-title="Potwierdzenie" id="sfwih" method="post" name="sfwih" onsubmit="return $(this).MyFabulousColorbox('5533566963324e796158423061573975526d3979625664705a47646c64456c7563326c6b5a55686c5957526c63673d3d', '59546f774f6e7439')"> <input class="customHidden" id="sfwih_params" name="sfwih[params]" type="hidden" value="YTo5OntzOjg6ImxvY2F0aW9uIjtDOjE5OiJMb2NhdGlvblNlYXJjaFBhcmFtIjozNTA6e2E6Nzp7czoxMzoibG9jYXRpb25fdHlwZSI7aToxO3M6ODoibG9jYXRpb24iO0M6MTA6IlN0cmluZ0xpc3QiOjMzOnthOjE6e2k6MDtzOjE1OiJXYXJzemF3YSBCZW1vd28iO319czoxMjoibG9jYXRpb25faWRzIjtDOjEwOiJTdHJpbmdMaXN0Ijo2OnthOjA6e319czoxNjoibG9jYXRpb25fZXhjbHVkZSI7QzoxMDoiU3RyaW5nTGlzdCI6Njp7YTowOnt9fXM6NzoiY291bnRyeSI7QzoxMDoiU3RyaW5nTGlzdCI6Njp7YTowOnt9fXM6MTU6ImNvdW50cnlfZXhjbHVkZSI7QzoxMDoiU3RyaW5nTGlzdCI6Njp7YTowOnt9fXM6OToicHJlY2lzaW9uIjtDOjIxOiJNYXBQcmVjaXNpb25zTGlzdFVzZXIiOjY6e2E6MDp7fX19fXM6NToidHlwZXMiO0M6MTI6IlR5cGVMaXN0VXNlciI6MTQ6e2E6MTp7aTowO2k6MTt9fXM6MTE6InRyYW5zYWN0aW9uIjtpOjE7czoxODoiZGljdF9idWlsZGluZ190eXBlIjtDOjExOiJJbnRlZ2VyTGlzdCI6Njp7YTowOnt9fXM6MTU6ImRpY3RfaG91c2VfdHlwZSI7QzoxMToiSW50ZWdlckxpc3QiOjY6e2E6MDp7fX1zOjE0OiJkaWN0X3Bsb3RfdHlwZSI7QzoxMToiSW50ZWdlckxpc3QiOjY6e2E6MDp7fX1zOjIyOiJkaWN0X2J1aWxkaW5nX21hdGVyaWFsIjtDOjExOiJJbnRlZ2VyTGlzdCI6Njp7YTowOnt9fXM6MTY6ImRpY3RfYWNjZXNzX3JvYWQiO0M6MTE6IkludGVnZXJMaXN0Ijo2OnthOjA6e319czoxMDoib3duZXJfdHlwZSI7QzoxMzoiT3duZXJUeXBlTGlzdCI6Njp7YTowOnt9fX0="/><input class="customHidden" id="sfwih_key" name="sfwih[key]" type="hidden" value="65a687b792e0b7835ceca317c96ff17b"/><input class="customHidden" id="sfwih_subscription" name="sfwih[subscription]" type="hidden" value="1"/><input class="customHidden" id="sfwih_tos" name="sfwih[tos]" type="hidden" value="1"/>
+<div class="title">Nie przegap najnowszych ofert!</div>
+<p>Zapisz się na bezpłatne powiadomienia o nowych ofertach spełniających kryteria:</p>
+<strong>Warszawa Bemowo - mieszkanie na sprzedaż<br/></strong>
+<div class="customer-bank-on-listing__content--form">
+<div class="content genericForm">
+<input class="customText" data-hint="wpisz e-mail" id="sfwih_email" name="sfwih[email]" type="text" value="wpisz e-mail"/> </div>
+<div class="additionalFormFields">
+</div>
+<script>
+VSR.run(function () {
+Popover.loadPopovers('.js-consent-info');
+}, ['Popover']);
+</script>
+<input class="submitButton" data-message-error="" data-message-loading="" name="commit" onfocus="blur()" type="submit" value="Zapisz się"/> </div>
+</form> <div class="message-tos-link">
+<a href="/ochrona-danych" onclick="var w=window.open(this.href);w.focus();return false;">O ochronie danych osobowych</a> </div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+VSR.runWhen$(function () {
+var $button = $('.mzn-btn--customers-bank-on-listing');
+var $background = $('.customer-bank-on-listing__background');
+var $modal = $('.customer-bank-on-listing__modal');
+var $closeButton = $('.customer-bank-on-listing__close');
+function close() {
+$background.hide();
+$modal.hide();
+VSR.run(function () {
+SubscriptionFormIM.setupForm(sfwIM)
+}, ["SubscriptionFormIM"]);
+}
+$button.click(function () {
+if ($(this).hasClass('mzn-btn--customers-bank-on-listing--disabled')) {
+return false;
+}
+$background.show();
+$modal.show();
+VSR.run(function () {
+myStatJs.addStat(
+'sub2',
+'powiadamiacz - kliknięcie w przycisk nad listingiem'
+);
+}, ['myStatJs']);
+VSR.run(function () {
+SubscriptionFormIM.setupForm(sfwih)
+}, ["SubscriptionFormIM"]);
+});
+$closeButton.click(function () {
+close();
+});
+$background.click(function () {
+close();
+});
+});
+</script>
+<h1 class="listing-header__title">Mieszkania Warszawa, Bemowo - oferty sprzedaży</h1>
+<p class="listing-header__description">
+Znaleziono 971 ogłoszeń, <a data-tooltip="Zobacz średnie ceny sprzedaży mieszkań Warszawa, Bemowo." href="/miejsca/warszawa/bemowo/?ps%5Btype%5D=1" id="locationPageLink">średnia cena 695 164 zł (10 580 zł/m²)</a> </p>
+<div class="listingModes">
+<div class="mz-box--map-offer">
+<a href="/mapa/mieszkania/warszawa/bemowo/">
+<span class="mz-btn mz-btn--map-offer">
+<span class="mz-ico mz-ico-map-marker-red"></span>
+Zobacz oferty na mapie </span>
+</a>
+</div>
+</div>
+<div class="listing-header__sort">
+<ul class="list-unstyled list-inline listing-header__sort__list">
+<li class="listing-header__sort__sort-element">
+<a class="selected" href="/mieszkania/warszawa/bemowo/">Domyślne</a> </li>
+<li class="listing-header__sort__sort-element">
+<a href="/mieszkania/najtansze/warszawa/bemowo/">Najtańsze</a> </li>
+<li class="listing-header__sort__sort-element">
+<a href="/mieszkania/najnowsze/warszawa/bemowo/">Najnowsze</a> </li>
+<li class="listing-header__sort__sort-element">
+<a href="#" id="show-sort-box">Ułóż oferty od<span class="caret-down"></span></a>
+</li>
+</ul>
+</div>
+<div class="listing_header__sort-by" id="sortByBox">
+<div class="listing-header__sort-by--hide" id="hide-sort-box">
+<a>Ułóż oferty od <span class="caret-up"></span></a>
+</div>
+<ul class="list-unstyled listing-header__sort-by__sort-list">
+<li class="listing-header__sort-by__sort-element">
+<a class="selected" href="/mieszkania/warszawa/bemowo/">Domyślne</a> </li>
+<li class="listing-header__sort-by__sort-element">
+<a href="/mieszkania/najtansze/warszawa/bemowo/">Najtańszych</a> </li>
+<li class="listing-header__sort-by__sort-element">
+<a href="/mieszkania/najdrozsze/warszawa/bemowo/">Najdroższych</a> </li>
+<li class="listing-header__sort-by__sort-element">
+<a href="/mieszkania/najstarsze/warszawa/bemowo/">Najstarszych</a> </li>
+<li class="listing-header__sort-by__sort-element">
+<a href="/mieszkania/najnowsze/warszawa/bemowo/">Najnowszych</a> </li>
+<li class="listing-header__sort-by__sort-element">
+<a href="/mieszkania/najnizsza-cena-za-m2/warszawa/bemowo/">Najniższej ceny za m²</a> </li>
+<li class="listing-header__sort-by__sort-element">
+<a href="/mieszkania/najwyzsza-cena-za-m2/warszawa/bemowo/">Najwyższej ceny za m²</a> </li>
+<li class="listing-header__sort-by__sort-element">
+<a href="/mieszkania/najmniejsza-liczba-pokoi/warszawa/bemowo/">Najmniejszej liczby pokoi</a> </li>
+<li class="listing-header__sort-by__sort-element">
+<a href="/mieszkania/najwieksza-liczba-pokoi/warszawa/bemowo/">Największej liczby pokoi</a> </li>
+<li class="listing-header__sort-by__sort-element">
+<a href="/mieszkania/najmniejsza-powierzchnia/warszawa/bemowo/">Najmniejszej powierzchni</a> </li>
+<li class="listing-header__sort-by__sort-element">
+<a href="/mieszkania/najwieksza-powierzchnia/warszawa/bemowo/">Największej powierzchni</a> </li>
+</ul>
+</div>
+<script type="text/javascript">VSR.run(function(){ new ListSort() }, ["$","ListSort"]);</script>
+</div>
+</header>
+<section>
+<script type="text/javascript">var __layer = window['reGTMDataLayer'] = window['reGTMDataLayer'] || [];
+__layer.push({"property_list":{"ids":[1533616163,1532752522,1533681210,1533642362,1533647642,1533642487,1533621810,1533582810,1533337106,1533436684,1533439282,1533144960,1533187952,1533624759,1533183081,1527238015,1532900150,1533378249,1533087065,1532651571,1533139830,1533288056,1533682089,1533184951,1533673301,1533639831,1532594749,1533380903,1533674718,1533613611,1533429155,1533672318,1533130995,1533390206,1533475386]}});
+window['layerIsPushed'] = true;</script>
+<div class="row row--property-list" data-id="1mzn2038666668">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo Lotnisko, 73 m²" class="js-ignore-dppx" src="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYm43ODg4OS9jL2JuNzg4ODlfbXNfQUhTODg3MTA2XzEuanBnI3Y9MV8yMDgyODMwNjEw/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-lotnisko-73-m.jpg"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYm43ODg4OS9jL2JuNzg4ODlfbXNfQUhTODg3MTA2XzEuanBnI3Y9MV8yMDgyODMwNjEw/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>12</li>
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--3d"></span></li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-franciszka-kawy-73m2-mzn2038666668" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo Lotnisko, Kawy </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+28-04-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Trzy pokoje z ogródkiem w centrum Bemowa</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">760 000 zł</p><p class="single-result__price single-result__price--currency">10 369,76 zł/m²</p> <meta content="760000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>73</b> m²</li> <li>parter</li> <li class="view3d">Widok 3D</li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Biuro nieruchomości Alfa Home prezentuje 3 pokojowe mieszkanie z osobną kuchnią, położone na parterze z przytulnym ogródkiem. Lokalizacja Mieszkanie zlokalizowane jest przy ul. Franciszka Kawy w samym centrum Bemowa, blisko Fortu Bema. Okolica jest spokojna i cicha, pomimo pobliskiej głównej drogi, która prowadzi nas min. do centrum rozrywki Spin City, Galerii Bemowo czy też Cinema City, Do najbliższego przystanku autobusowego i tramwajowego </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<aside class="bb-list-slot">
+<div class="bb-ad-outer gamad clear-ad-margin" id="slot-top2-1" style="width: 840px;">
+</div> <div class="clear"></div>
+</aside>
+<div class="row row--property-list" data-id="1mzn2037803027">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo Lotnisko, 63 m²" class="js-ignore-dppx" src="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYm43ODg4OS8wL2JuNzg4ODlfbXNfQUwyMjE2MTlfMS5qcGcjdj0xXzIwNjA3NDM1MTU=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-lotnisko-63-m.jpg"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYm43ODg4OS8wL2JuNzg4ODlfbXNfQUwyMjE2MTlfMS5qcGcjdj0xXzIwNjA3NDM1MTU=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>17</li>
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--3d"></span></li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-jana-blatona-63m2-mzn2037803027" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo Lotnisko, Blatona </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+11-12-2020 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Trzy pokoje na Bemowie po remoncie z parkingiem</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">599 000 zł</p><p class="single-result__price single-result__price--currency">9447,95 zł/m²</p> <meta content="599000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>63</b> m²</li> <li>piętro <b>7/11</b></li> <li class="view3d">Widok 3D</li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Biuro nieruchomości Alfa Home prezentuje przestronne i słoneczne a do tego bardzo ustawne 3 pokojowe mieszkanie o powierzchni 63,4 m2 w świetnie skomunikowanej części dzielnicy Bemowo, nieopodal linii tramwajowej oraz budowanej stacji metra. Lokalizacja Budynek zlokalizowany jest przy ul. Blatona, nieopodal węzła komunikacyjnego na skrzyżowaniu ulic Wrocławskiej i Powstańców Śląskich. Z przystanków oddalonych około 150 metrów od naszego bloku w </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038731715">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 55 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvZzY2MzE3L2UvZzY2MzE3X21zX1dMSS1NUy00NzVfMS5qcGcjdj0xXzIwODI3NjM3Njk=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-55-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvZzY2MzE3L2UvZzY2MzE3X21zX1dMSS1NUy00NzVfMS5qcGcjdj0xXzIwODI3NjM3Njk=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>21</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-54m2-mzn2038731715" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+12-05-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>2 pokojowe z dala od wielkomiejskiego gwaru</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">565 000 zł</p><p class="single-result__price single-result__price--currency">10 323,41 zł/m²</p> <meta content="565000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>2</b> pokoje</li> <li><b>55</b> m²</li> <li>piętro <b>1/3</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Mam przyjemność przedstawić Państwu wyjątkową ofertę niezwykle atrakcyjnego jednopoziomowego mieszkania usytuowanego na granicy Bemowa (Szeligi) przy ulicy Brzozowej 11. Doskonała propozycja dla osób poszukujących mieszkania z dala od wielkomiejskiego gwaru. Za sprawą okolicznej niskiej zabudowy domów jednorodzinnych miejsce zapewnia spokój i ciszę. Bardzo dobra komunikacja z centrum Warszawy sprawia, że wszelkie </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038692867">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 50 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvcHJvcGVydHNwLzgvcHJvcGVydHNwX21zXzk4NyUyNTJGNzQ5NCUyNTJGT01TXzEuanBnI3Y9MV8yMDgyNjMyMjE2/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-50-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvcHJvcGVydHNwLzgvcHJvcGVydHNwX21zXzk4NyUyNTJGNzQ5NCUyNTJGT01TXzEuanBnI3Y9MV8yMDgyNjMyMjE2/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>11</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-50m2-mzn2038692867" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+04-05-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>urowa / Duży balkon / Metro</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">599 000 zł</p><p class="single-result__price single-result__price--currency">11 980 zł/m²</p> <meta content="599000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>2</b> pokoje</li> <li><b>50</b> m²</li> <li>parter</li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Szanowni Państwo,&amp;nbsp;Mam przyjemność zaprezentować fantastyczną nieruchomość, położoną w zielonej i spokojnej części Bemowa. Mieszkanie posiada funkcjonalny rozkład pokoi. Składa się z widnego salonu, osobnej sypialni, wydzielonej kuchni, łazienki z dużą wanną oraz przedpokoju z pojemną szafą. Jego ogromnym atutem jest przestronny balkon (o powierzchni aż 13 m2) z dwoma wyjściami, zarówno z salonu jak i z ndard lokalu podnoszą drewniane, </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038698147">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo Lotnisko, 77 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWFya2V0My9kL21hcmtldDNfbXNfMTM4MDMyXzEuanBnI3Y9MV8yMDc3MzY0NDM2/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-lotnisko-77-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWFya2V0My9kL21hcmtldDNfbXNfMTM4MDMyXzEuanBnI3Y9MV8yMDc3MzY0NDM2/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>19</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-kaden-bandrowskiego-juliusza-77m2-mzn2038698147" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo Lotnisko, Kaden-Bandrowskiego </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+05-05-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Idealne dla rodziny i dla inwestora !</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">679 000 zł</p><p class="single-result__price single-result__price--currency">8818,18 zł/m²</p> <meta content="679000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>4</b> pokoje</li> <li><b>77</b> m²</li> <li>piętro <b>3/10</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Idealne dla rodziny i dla inwestora! Oferujemy do sprzedaży bardzo ładne, 4-pokojowe, rozkładowe mieszkanie na Bemowie przy ulicy Kaden-Bandrowskiego. Bardzo wygodne dla kilkuosobowej rodziny. Może być również dobrą inwestycją pod wynajem (blisko Wojskowa Akademia Techniczna i wielu potencjalnych najemców). Mieszkanie ma 77 mkw. i składa się z salonu połączonego z kuchnią, trzech oddzielnych dużych pokoi, ładnej łazienki i oddzielnego WC. </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038692992">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 63 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWF4dG9uLzgvbWF4dG9uX21zX0FYMDEwNjk2XzEuanBnI3Y9MV8yMDg3MzAyMzg4/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-63-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWF4dG9uLzgvbWF4dG9uX21zX0FYMDEwNjk2XzEuanBnI3Y9MV8yMDg3MzAyMzg4/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>13</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-pirenejska-62m2-mzn2038692992" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Pirenejska </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+04-05-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>3 pokojowe na Bemowie/Pirenejska do remontu</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">588 000 zł</p><p class="single-result__price single-result__price--currency">9404,99 zł/m²</p> <meta content="588000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>63</b> m²</li> <li>piętro <b>8/8</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Jasne, rozkładowe 3 pokojowe mieszkanie na Bemowie przy ul. Pirenejskiej , w cichej ,zielonej okolicy . 62,52 metrowe mieszkanie składa się z pokoju dziennego, z którego jest wyjście na dużą logię, dwóch sypialni, łazienki, WC ,przedpokoju. Mieszkanie jest z dużym potencjałem, bardzo dobry układ pod kątem inwestycji, jak i rodziny z dziećmi. Mieszkanie wymaga remontu, do własnej aranżacji . Dwa mieszkania na piętrze. Własność, grunty uregulowane. </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038672315">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 70 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvdGptL2EvdGptX21zXzY4MyUyNTJGMjA3MiUyNTJGT01TXzEuanBnI3Y9MV8yMDg3NDc0NTgy/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-70-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvdGptL2EvdGptX21zXzY4MyUyNTJGMjA3MiUyNTJGT01TXzEuanBnI3Y9MV8yMDg3NDc0NTgy/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>16</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-jana-olbrachta-70m2-mzn2038672315" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Jana Olbrachta </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+29-04-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Stylowe poddasze, duża loggia, miejsce postojowe!</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">699 000 zł</p><p class="single-result__price single-result__price--currency">9985,71 zł/m²</p> <meta content="699000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>70</b> m²</li> <li>piętro <b>4/4</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Komfortowe, ciche, jasne, dwustronne, klimatyczne mieszkanie w świetnej lokalizacji przy ul. Olbrachta 118, na zamkniętym osiedlu z ochroną. Oferuję na sprzedaż trzypokojowe mieszkanie po remoncie, z oddzielną, widną kuchnią i dużą przeszkloną loggią, łazienką i oddzielnym WC na 4. piętrze – ostatnim, w budynku z 2000 roku, bez windy. Mieszkanie ma powierzchnię 59,4 m2 według księgi wieczystej, zaś po podłodze aż 70 m2, a skosy są niewielkie i </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<aside class="bb-list-slot">
+<div class="bb-ad-outer gamad clear-ad-margin" id="slot-top2-2" style="width: 840px;">
+</div> <div class="clear"></div>
+</aside>
+<div class="row row--property-list" data-id="1mzn2038633315">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 63 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWFseWNoYS9lL21hbHljaGFfbXNfMTI5JTI1MkY3NDQ3JTI1MkZPTVNfMS5qcGcjdj0xXzIwNzY4NTY5ODU=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-63-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWFseWNoYS9lL21hbHljaGFfbXNfMTI5JTI1MkY3NDQ3JTI1MkZPTVNfMS5qcGcjdj0xXzIwNzY4NTY5ODU=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>12</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-chrzanowska-62m2-mzn2038633315" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Chrzanowska </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+21-04-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Bardzo ładne / nigdy nie zamieszkane</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">795 000 zł</p><p class="single-result__price single-result__price--currency">12 667,30 zł/m²</p> <meta content="795000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>63</b> m²</li> <li>piętro <b>2/5</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Świeżo wyremontowane 3-pokojowe, wykończone mieszkanie na Warszawskim Bemowie. Lokalizacja: Prężnie rozwijająca się część Bemowa - Jelonki Południowe. Ulica Chrzanowska zlokalizowana jest w niewielkiej odległości od planowanych stacji II linii metra: Chrzanów i Karolin. Poza planowanymi stacjami metra, dostępnych jest wiele przystanków autobusowych i tramwajowych obsługujących kilkanaście linii pozwalających na sprawne dotarcie do samego centrum </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038387611">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 96 m²" class="js-ignore-dppx lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvZW1tZXJzb24vZS9lbW1lcnNvbl9tc19NUy0zMjEyNjVfMS5qcGcjdj0xXzIwODMwMzM3NTE=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-96-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvZW1tZXJzb24vZS9lbW1lcnNvbl9tc19NUy0zMjEyNjVfMS5qcGcjdj0xXzIwODMwMzM3NTE=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>17</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-95m2-mzn2038387611" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+11-03-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>APARTAMENTOWIEC</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">1 095 000 zł</p><p class="single-result__price single-result__price--currency">11 408,63 zł/m²</p> <meta content="1095000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>4</b> pokoje</li> <li><b>96</b> m²</li> <li>piętro <b>3/3</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Prezentujemy Państwu mały kameralny apartamentowiec w willowej części Jelonek nie daleko "Osiedla Przyjaźń". Tylko 15 minut od Centrum Warszawy. Mieszkanie 4 pokojowe na 3 kondygnacji budynku. Mieszkanie z własnym garażem indywidualnym 17,5m2, z osobną bramą i osobnym wejściem!!! jako jedyne, reszta mieszkań posiada miejsca na platformie w garażu wielostanowiskowym. Wjazd bezpośrednio z ulicy Oświatowej. Garaż w cenie. Nieruchomość składa się z: </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038487189">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Kawalerka na sprzedaż, Warszawa Bemowo, 61 m²" class="js-ignore-dppx lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWF4b24vZC9tYXhvbl9tc181NTE4MSUyNTJGTVMlMjUyRk1BWF8xLmpwZyN2PTJfMjAzOTY0MDQzNA==/288/224/4/kawalerka-na-sprzedaz-warszawa-bemowo-61-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWF4b24vZC9tYXhvbl9tc181NTE4MSUyNTJGTVMlMjUyRk1BWF8xLmpwZyN2PTJfMjAzOTY0MDQzNA==/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>13</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Kawalerka na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-franciszka-kawy-61m2-mzn2038487189" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Kawy </h2>
+<p class="single-result__category" itemprop="name">
+Kawalerka na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+25-03-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Lokal niemieszkalny na Bemowie</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">499 000 zł</p><p class="single-result__price single-result__price--currency">8149,60 zł/m²</p> <meta content="499000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>1</b> pokój</li> <li><b>61</b> m²</li> <li>parter</li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Świetnie umiejscowiony lokal niemieszkalny przeznaczony na cele biurowe o powierzchni całkowitej 61,23 m2. Powierzchnię lokalu stanowią: pokój z aneksem kuchennym - 53,84 m2łazienka - 4,57 m2korytarz - 2,82 m2Lokal składa się z otwartej przestrzeni, wydzielonego aneksu kuchennego (wyposażonego w zmywarkę, piekarnik oraz płytę indukcyjną) i łazienki. Łazienka jest wyposażona w wannę, umywalkę. Do lokalu wchodzi się bezpośrednio z klatki schodowej </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038489787">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 77 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWF4b24vNy9tYXhvbl9tc181NTA3MCUyNTJGTVMlMjUyRk1BWF8xLmpwZyN2PTJfMjAzOTkxNDE4NA==/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-77-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWF4b24vNy9tYXhvbl9tc181NTA3MCUyNTJGTVMlMjUyRk1BWF8xLmpwZyN2PTJfMjAzOTkxNDE4NA==/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>16</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-orlich-gniazd-76m2-mzn2038489787" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Orlich Gniazd </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+26-03-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Cztery pokoje Widna kuchnia Balkon Piwnica</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">599 000 zł</p><p class="single-result__price single-result__price--currency">7789,34 zł/m²</p> <meta content="599000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>4</b> pokoje</li> <li><b>77</b> m²</li> <li>piętro <b>4/4</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Na sprzedaż czteropokojowe mieszkanie do odświeżenia lub remontu na Bemowie. Widna, oddzielna kuchnia z możliwością połączenia z salonem. Mieszkanie znajduje się na 4, ostatnim piętrze. Duża piwnica - 9m2 Salon z wyjściem na duży balkon. 3 oddzielne sypialnie. Oddzielna kuchnia z dużym oknem. Łazienka z wanną. Oddzielna toaleta. W mieszkaniu można przeprowadzić generalny remont, niemniej możliwe jest zamieszkanie już po jego odświeżeniu. Nowe </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038195465">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 126 m²" class="js-ignore-dppx lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvc2NpYW55LzAvc2NpYW55X21zXzU1NjExJTI1MkYzMDk4JTI1MkZPTVNfMS5qcGcjdj0xXzIwODI4ODU0NDA=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-126-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvc2NpYW55LzAvc2NpYW55X21zXzU1NjExJTI1MkYzMDk4JTI1MkZPTVNfMS5qcGcjdj0xXzIwODI4ODU0NDA=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>30</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-powstancow-slaskich-126m2-mzn2038195465" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Powstańców Śląskich </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+12-02-2021 </span>
+</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">999 000 zł</p><p class="single-result__price single-result__price--currency">7928,57 zł/m²</p> <meta content="999000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>5</b> pokoi</li> <li><b>126</b> m²</li> <li>piętro <b>3/5</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>PIEKNE MIESZKANIE NA BEMOWIE Z GARAŻEM W CENIE !!! OFERTA WYŁĄCZNIE W NASZYM BIURZE , szczegóły -10 !!! Bardzo słoneczne i ładne mieszkanie na Bemowie. Zadbany budynek z przełomu lat 1999/2000. Teren ogrodzony i ładnie utrzymany - dużo zieleni, cisza, spokój i bezpieczeństwo. Mieszkanie ma 3 balkony i 3 poziomy po ok 40m: I poziom: salon + balkon + hall + łazienka + kuchnia + schody. Pomieszczenia wysokie na 280cm! II poziom: 3 sypialnie + hall </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038238457">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 62 m²" class="js-ignore-dppx lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWExNy9kL21hMTdfbXNfMjA2JTI1MkYzMjM0JTI1MkZPTVNfMS5qcGcjdj0xXzIwODI4MDI0NDM=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-62-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWExNy9kL21hMTdfbXNfMjA2JTI1MkYzMjM0JTI1MkZPTVNfMS5qcGcjdj0xXzIwODI4MDI0NDM=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>15</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-waclawa-borowego-62m2-mzn2038238457" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Borowego </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+18-02-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Po remoncie, osobna kuchnia, możliwy 4 pok, ciche.</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">650 000 zł</p><p class="single-result__price single-result__price--currency">10 483,87 zł/m²</p> <meta content="650000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>62</b> m²</li> <li>piętro <b>5/12</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Rezerwacja do 18.05. Trzypokojowe mieszkanie po remoncie z osobną widną kuchnią. Dokładna powierzchnia 61,6 mkw. Piętro 5/12. Blok zadbany, ocieplony, czysta klatka schodowa i winda. Lokal składa się z dwóch ustawnych sypialni (10 mkw i 12 mkw), przestronnego salonu (18 mkw) z wyjściem na zabudową loggię (2,3 mkw), osobnej kuchni z oknem (8 mkw), łazienki z nową kabiną prysznicową (3,8 mkw), osobnego w.c. (1,5 mkw) oraz przedpokoju. Istnieje </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<aside class="bb-list-slot">
+<div class="bb-ad-outer gamad clear-ad-margin" id="slot-top2-3" style="width: 840px;">
+</div> <div class="clear"></div>
+</aside>
+<div class="row row--property-list" data-id="1mzn2038675264">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 50 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvcmVkaG91c2V3YS82L3JlZGhvdXNld2FfbXNfODkxMjElMjUyRjM2NDUlMjUyRk9NU18xLmpwZyN2PTFfMjA4NzQ0MDUxNA==/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-50-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvcmVkaG91c2V3YS82L3JlZGhvdXNld2FfbXNfODkxMjElMjUyRjM2NDUlMjUyRk9NU18xLmpwZyN2PTFfMjA4NzQ0MDUxNA==/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>7</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-batalionow-chlopskich-49m2-mzn2038675264" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Batalionów Chłopskich </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+30-04-2021 </span>
+</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">535 000 zł</p><p class="single-result__price single-result__price--currency">10 808,08 zł/m²</p> <meta content="535000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>2</b> pokoje</li> <li><b>50</b> m²</li> <li>piętro <b>2/4</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Mieszkanie w stanie deweloperskim z roku 2020 na Bemowie przy ulicy Batalionów Chłopskich. Mieszkanie znajduję się na nowoczesnym osiedlu przy ulicy Batalionów Chłopskich . Powierzchnia 49,50 m2, usytuowane na drugim piętrze z windą. Mieszkanie składa się z salonu z aneksem kuchennym i balkonem, sypialni, dużej łazienki i garderoby oraz z przestronnego przedpokoju. Do mieszkania przynależy również miejsce garażowe dodatkowo płatne 30 000 zł. </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038233586">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 50 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWEyNTAvZS9tYTI1MF9tc19TTDgzNjA3Ml8xLmpwZyN2PTFfMjA4MjE2NzAzOQ==/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-50-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWEyNTAvZS9tYTI1MF9tc19TTDgzNjA3Ml8xLmpwZyN2PTFfMjA4MjE2NzAzOQ==/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>11</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-zaborowska-50m2-mzn2038233586" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Zaborowska </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+17-02-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Doskonałe dla 2+1 i świetne jako pierwsze lokum</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">598 400 zł</p><p class="single-result__price single-result__price--currency">11 968 zł/m²</p> <meta content="598400.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>2</b> pokoje</li> <li><b>50</b> m²</li> <li>piętro <b>2/6</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Mieszkanie idealne dla małej rodzinki, na start i pod inwestycję. Prezentowane mieszkanie położone na Bemowie na osiedlu Górce w cichej i spokojnej okolicy. Nieruchomość do wprowadzenia bez nakładów finansowych. W skład wchodzą:   -  salon   -  sypialnia   -  kuchnia oddzielna z oknem   -  przedpokój z zabudową garderobianą   - łazienka z wanną   - balkon Dodatkowo komórka usytuowana obok mieszkania. Założona KW, grunty uregulowane. W pobliżu </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2032288520">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 116 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWF4b24vZC9tYXhvbl9tc180NjU2OSUyNTJGTVMlMjUyRk1BWF8xLmpwZyN2PTVfMTc5MjMxMTgxNw==/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-116-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWF4b24vZC9tYXhvbl9tc180NjU2OSUyNTJGTVMlMjUyRk1BWF8xLmpwZyN2PTVfMTc5MjMxMTgxNw==/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>30</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-muszlowa-115m2-mzn2032288520" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Muszlowa </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+11-12-2018 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Dwupoziomowe mieszkanie na Bemowie</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">850 000 zł</p><p class="single-result__price single-result__price--currency">7352,94 zł/m²</p> <meta content="850000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>5</b> pokoi</li> <li><b>116</b> m²</li> <li>piętro <b>4/5</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Bardzo ładne mieszkanie dwupoziomowe położone przy ul. Muszlowej na Bemowie. Mieszkanie składa się z 5 pokoi, kuchni, 2 łazienek. Na parterze: salon z widną, otwartą kuchnią, łazienka i 1 sypialnia. Na piętrze: 3 sypialnie, łazienka. Mieszkanie dwustronne, 2 poziomowe. Widok z okien na muszlę koncertową. Dookoła teren zielony. Możliwość zakupu na kredyt, stan prawny gruntu uregulowany. Zapraszam serdecznie na prezentację PodstawowePowierzchnia : </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2037950655">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 62 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEva3ViaWFrL2Uva3ViaWFrX21zXzE4MDI3JTI1MkYxOTg5JTI1MkZPTVNfMS5qcGcjdj0xXzIwODIxNTkwMjU=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-62-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEva3ViaWFrL2Uva3ViaWFrX21zXzE4MDI3JTI1MkYxOTg5JTI1MkZPTVNfMS5qcGcjdj0xXzIwODIxNTkwMjU=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>11</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-61m2-mzn2037950655" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+08-01-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Sprzedam mieszkanie 3 pokojowe na Bemowie</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">514 000 zł</p><p class="single-result__price single-result__price--currency">8341,45 zł/m²</p> <meta content="514000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>62</b> m²</li> <li>piętro <b>2/3</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Mieszkanie 3 pokojowe, rozkładowe o powierzchni 61,62 m2 usytuowane na drugim piętrze w niskim, trzypiętrowym budynku z 1981 (bez windy) roku przy ulicy Muszlowej na warszawskim Bemowie. Lokal składa się z dużego pokoju z wyjściem na balkon typu loggia, sypialni, mniejszego pokoju, oddzielnej kuchni z oknem, łazienki z wanną, osobnego WC oraz przestronnego przedpokoju z szafą w zabudowie. Mieszkanie zadbane, gotowe do zamieszkania bez ponoszenia </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038428754">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Fort Bema, 58 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvc2NpYW55LzEvc2NpYW55X21zXzU1OTE1JTI1MkYzMDk4JTI1MkZPTVNfMS5qcGcjdj0xXzIwODI5NTkzMTU=/288/224/4/mieszkanie-na-sprzedaz-warszawa-fort-bema-58-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvc2NpYW55LzEvc2NpYW55X21zXzU1OTE1JTI1MkYzMDk4JTI1MkZPTVNfMS5qcGcjdj0xXzIwODI5NTkzMTU=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>22</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-dywizjonu-303-57m2-mzn2038428754" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Fort Bema, Dywizjonu 303 </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+15-03-2021 </span>
+</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">699 000 zł</p><p class="single-result__price single-result__price--currency">12 093,43 zł/m²</p> <meta content="699000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>58</b> m²</li> <li>piętro <b>3/3</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Luksusowy apartament z 40 metrowym tarasem i 2 balkonami !!! 57m, 3 pokoje, stan idealny Osiedle "Prestige" Na Bemowie. Piętro 3/3 , jest winda Pokoje 22,4 , 12 i 9 m Do mieszkania miejsce postojowe w garażu podziemnym + 30000 zł Znakomita komunikacja : tramwaj, autobus. Blisko Kampinos, park na Bemowie. Pytania, oglądanie? , dzwoń Zamieszczona oferta nie stanowi oferty w rozumieniu Kodeksu Cywilnego. licencja 4355; Zapytaj naszego Agenta o </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038137570">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 59 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWF4dG9uLzMvbWF4dG9uX21zX0FYMDEwMTUyXzEuanBnI3Y9MV8yMDg3MzAwODI2/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-59-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWF4dG9uLzMvbWF4dG9uX21zX0FYMDEwMTUyXzEuanBnI3Y9MV8yMDg3MzAwODI2/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>8</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-gorczewska-59m2-mzn2038137570" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Górczewska </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+03-02-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Okazja ,metro, apartamentowiec z garażem</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">615 000 zł</p><p class="single-result__price single-result__price--currency">10 423,73 zł/m²</p> <meta content="615000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>2</b> pokoje</li> <li><b>59</b> m²</li> <li>piętro <b>1/8</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Oferujemy rozkładowe mieszkanie w apartamentowcu tuż przy nowo powstającej stacji metra Bemowo Ratusz . Mieszkanie 59,12 m2 na pierwszym piętrze w budynku z 2010 r, ciche. Okna w ekspozycji wschodniej, okno balkonowe na południe z widokiem na patio, kierunek wschodni, oszklony balkon. Lokum składa się z salonu : 21 m2, widnej kuchni z ładną zabudową kuchenną o powierzchni 8m2, przestronnej 13m2 sypialni oraz łazienki 5m2  Na życzenie może być </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<aside class="bb-list-slot">
+<div class="bb-ad-outer gamad clear-ad-margin" id="slot-top2-4" style="width: 840px;">
+</div> <div class="clear"></div>
+</aside>
+<div class="row row--property-list" data-id="1mzn2037702076">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 75 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvd2Fyc28vOC93YXJzb19tc18xMTglMjUyRjY1MjMlMjUyRk9NU18xLmpwZyN2PTFfMjA4MzQ0NTI0OA==/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-75-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvd2Fyc28vOC93YXJzb19tc18xMTglMjUyRjY1MjMlMjUyRk9NU18xLmpwZyN2PTFfMjA4MzQ0NTI0OA==/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>24</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-plk-witolda-lokuciewskiego-75m2-mzn2037702076" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, płk. Witolda Łokuciewskiego </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+27-11-2020 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Ostatnie piętro, taras 35,50.Tramwaj, metro</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">750 000 zł</p><p class="single-result__price single-result__price--currency">10 000 zł/m²</p> <meta content="750000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>75</b> m²</li> <li>piętro <b>5/5</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Oferuję na sprzedaż 3 pokojowe mieszkanie w stanie deweloperskim. Mieszkanie usytuowane jest na Bemowie przy ul. Łokuciewskiego 5 tuż przy Wojskowej Akademii Technicznej. Inwestycja NARWIK 1. -OSTATNIE PIĘTRO, BUDYNEK Z WINDĄ I GARAŻEM. -WYSOKOŚĆ 3 M -TARAS 35,56 MKW -3 POKOJE Z ODZIELNĄ KUCHNIĄ. niski czynsz 604,15 zł. Mieszkanie jest bardzo słoneczne. Bardzo ładny widok na Wojskowy Ogród działkowy. Bardzo dobra komunikacja: 3 min do tramwaju </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038180335">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Górce, 50 m²" class="js-ignore-dppx lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvZWxpYW4vYy9lbGlhbl9tc18xMDMyXzEuanBnI3Y9MV8xOTc4MDAyODQz/288/224/4/mieszkanie-na-sprzedaz-warszawa-gorce-50-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvZWxpYW4vYy9lbGlhbl9tc18xMDMyXzEuanBnI3Y9MV8xOTc4MDAyODQz/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>18</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-lazurowa-50m2-mzn2038180335" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Górce, Lazurowa </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+10-02-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>2 pokoje z pięknym tarasem i dwoma garażami</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">580 000 zł</p><p class="single-result__price single-result__price--currency">11 600 zł/m²</p> <meta content="580000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>2</b> pokoje</li> <li><b>50</b> m²</li> <li>parter</li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Ładne, zadbane mieszkanie dwupokojowe z dużym tarasem usytuowane na wysokim parterze. Lokal mieszkalny dwustronny z ekspozycją okien wschód- zachód. W mieszkaniu położone zostały nowe gładzie, podłogi drewniane, nowe okna PCV. W skład mieszkania wchodzi: pokój dzienny - 18.30m 2, widna kuchnia - 6,75m 2, sypialnia - 10,30m2, przedpokój - 8,25m 2, łazienka z oknem - 4,30 m2, taras - 16 m2. Cena mieszkania obejmuje dwa miejsca garażowe. Mieszkanie </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038338561">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 67 m²" class="js-ignore-dppx lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWFuemlsLzEvbWFuemlsX21zX01OMzQ2Nzk4Mzk3Njg4XzEuanBnI3Y9MV8yMDU0OTcxODg1/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-67-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbWFuemlsLzEvbWFuemlsX21zX01OMzQ2Nzk4Mzk3Njg4XzEuanBnI3Y9MV8yMDU0OTcxODg1/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>8</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-batalionow-chlopskich-66m2-mzn2038338561" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Batalionów Chłopskich </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+05-03-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Nowe mieszkanie z 2019 przy metrze !</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">785 000 zł</p><p class="single-result__price single-result__price--currency">11 751,50 zł/m²</p> <meta content="785000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>67</b> m²</li> <li>piętro <b>1/4</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Do sprzedaży 3 pokojowe, stylowe mieszkanie wybudowane w 2018 roku przez jednego z czołowych polskich deweloperów Dom Development. Mieszkanie o powierzchni 66.8 m2 z balkonem oraz miejscem postojowym w garażu podziemnym na poziomie -1. Bezpośredni link do spaceru 3D Mieszkanie składa się z salonu z aneksem kuchennym 29m , holu, garderoby, łazienki 5m oraz dwóch pokoi o powierzchni 11m i 10m. Bezpośrednio z salonu jest wyjście na balkon o </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038732594">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 49 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbmllcjIyMjIvZC9uaWVyMjIyMl9tc18xMjIzNTBfMS5qcGcjdj0xXzIwODI4MzM0MTg=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-49-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbmllcjIyMjIvZC9uaWVyMjIyMl9tc18xMjIzNTBfMS5qcGcjdj0xXzIwODI4MzM0MTg=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>16</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-synow-pulku-49m2-mzn2038732594" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Synów Pułku </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+14-05-2021 </span>
+</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">605 000 zł</p><p class="single-result__price single-result__price--currency">12 346,94 zł/m²</p> <meta content="605000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>49</b> m²</li> <li>piętro <b>6</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Witam. Mam do zaoferowania bardzo ładne ,bardzo ciche mieszkanie w bardzo dobrej hodnio -południowa strona świata. W pobliżu szkoły, przedszkola, place zabaw, parki, sklepy, siłownia, bazarek, Hala Wola, apteki, szewc, krawiec, biedronka oraz super zieleniak w bloku obok ze świeżymi warzywami. W niedalekiej przyszłości stacja metra Ratusz Bemowo. Doskonała komunikacja miejska, tramwaje( 25 min. Do centrum), autobusy. Bardzo blisko do stacji </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038235456">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 78 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC80LzkvNS8xLzE1MzMxODQ5NTEvMjcwNDg4NC5pbWc=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-78-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC80LzkvNS8xLzE1MzMxODQ5NTEvMjcwNDg4NC5pbWc=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>15</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-zaborowska-78m2-mzn2038235456" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Zaborowska </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+<strong>dzisiaj</strong> </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>ul. Zaborowska 15, Górce Nowe</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">600 000 zł</p><p class="single-result__price single-result__price--currency">7692,31 zł/m²</p> <meta content="600000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>78</b> m²</li> <li>piętro <b>4/5</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Warszawa Bemowo Zaborowska 15 Mieszkanie 3-pokojowe (płd.-zach./płn.-wsch.) na Bemowie ul. Zaborowska 15, pow. 78 m², 4-te piętro (z 5-ciu), budynek z 1997 roku (bez windy): widna kuchnia (12 m² - zdjęcie 5+6) , salon (21 m² - zdjęcie 7+8), balkon (6,25 m² - zdjęcie 13+14), 2 sypialnie (15 m² - zdjęcie 9+10 oraz 17 m² - zdjęcie 11+12), łazienka (2,8 m² - zdjęcie 4), WC (1,5 m² zdjęcie 3), piwnica (7 m²). Pierwszy właściciel. W sąsiedztwie budynku </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038723806">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 57 m²" class="js-ignore-dppx lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbmllcjIyMjIvMi9uaWVyMjIyMl9tc18xMjIzMDNfMS5qcGcjdj0xXzIwODIxMTA0MTQ=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-57-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvbmllcjIyMjIvMi9uaWVyMjIyMl9tc18xMjIzMDNfMS5qcGcjdj0xXzIwODIxMTA0MTQ=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>11</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-dywizjonu-57m2-mzn2038723806" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Dywizjonu 303 </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+09-05-2021 </span>
+</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">619 000 zł</p><p class="single-result__price single-result__price--currency">10 859,65 zł/m²</p> <meta content="619000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>2</b> pokoje</li> <li><b>57</b> m²</li> <li>piętro <b>1</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Sprzedam dwupokojowe mieszkanie w spokojnej okolicy na Bemowie przy ulicy Dywizjonu 303. Na metraż 56,96m2 składają się: duża sypialnia o pow. 18,74m2, salon z aneksem kuchennym o pow. 26,89m2, korytarz o pow. 6,65m2, łazienka 4,68m2. Do lokalu przynależny jest balkon o pow. 7,23m2. Dużym plusem jest przedsionek przed wejściem do mieszkania, zamknięta część tylko do jednego lokalu. Mieszkanie jest gotowe do wprowadzenia, wymaga odświeżenia. Na </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<aside class="bb-list-slot">
+<div class="bb-ad-outer gamad clear-ad-margin" id="slot-top2-5" style="width: 840px;">
+</div> <div class="clear"></div>
+</aside>
+<div class="row row--property-list" data-id="1mzn2038680336">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 82 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYmJyb2tlci82L2Jicm9rZXJfbXNfMTk2NzMyXzAuanBnI3Y9MV8yMDgyNzM4MDA2/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-82-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYmJyb2tlci82L2Jicm9rZXJfbXNfMTk2NzMyXzAuanBnI3Y9MV8yMDgyNzM4MDA2/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>16</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-lazurowa-82m2-mzn2038680336" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Lazurowa </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+01-05-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>!!!BEZPOŚREDNIO!!! LAZUROWA !!! 4-Pokoje,2-Łazienk</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">890 000 zł</p><p class="single-result__price single-result__price--currency">10 853,66 zł/m²</p> <meta content="890000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>4</b> pokoje</li> <li><b>82</b> m²</li> <li>piętro <b>4/5</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Oferta promowana za pomocą MULTIPORTALU NIERUCHOMOŚCI B E B R O K E R . P L Opis: Sprzedam bezpośrednio 4 pokojowe, dwustronne mieszkanie. Warszawa Bemowo (ul. Lazurowa 183). Z uwagi na stan epidemiologiczny nie jestem zainteresowany współpracą z pośrednikami za co najmocniej przepraszam. Mieszkanie jest słoneczne (południowy - zachód), ustawne, widne i ciche. Osiedle zamknięte z placem zabaw. Bardzo mili sąsiedzi. Na piętrze tylko 3 mieszkania. </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2037645254">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Fort Bema, 110 m²" class="js-ignore-dppx lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC80LzcvNC85LzE1MzI1OTQ3NDkvMjY5NjI2NS5pbWc=/288/224/4/mieszkanie-na-sprzedaz-warszawa-fort-bema-110-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC80LzcvNC85LzE1MzI1OTQ3NDkvMjY5NjI2NS5pbWc=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>15</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-110m2-mzn2037645254" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Fort Bema </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+11-05-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Apartament na Fortach Bema</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">1 750 000 zł</p><p class="single-result__price single-result__price--currency">15 909,09 zł/m²</p> <meta content="1750000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>4</b> pokoje</li> <li><b>110</b> m²</li> <li>piętro <b>5/5</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Bardzo klimatyczny, przestronny i awangardowo zaprojektowany apartament położony w otoczeniu bujnej zieleni na Fortach Bema na „Osiedlu Leśnym” z kameralnym klimatem, placami zabaw i pobliskim parkiem. Położenie zacisznego osiedla wręcz przy samym parku buduje jego niepowtarzalną, atmosferę daleką od zgiełku miasta, a jednocześnie zapewniającą szybkie połączenie z jego centrum. Nieopodal znajdują się liczne szkoły i przedszkola. Apartament </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038431408">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Fort Bema, 90 m²" class="js-ignore-dppx lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC8wLzkvMC8zLzE1MzMzODA5MDMvMjcyMjEwMy5pbWc=/288/224/4/mieszkanie-na-sprzedaz-warszawa-fort-bema-90-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC8wLzkvMC8zLzE1MzMzODA5MDMvMjcyMjEwMy5pbWc=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>14</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-wroclawska-90m2-mzn2038431408" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Fort Bema, Wrocławska </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+<strong>wczoraj</strong> </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Mieszkanie 90,4m Bemowo, dwupoziomowe</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">850 000 zł</p><p class="single-result__price single-result__price--currency">9402,65 zł/m²</p> <meta content="850000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>90</b> m²</li> <li>piętro <b>3/3</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Sprzedam mieszkanie w nowym budownictwie. Mieszkanie dwupoziomowe na 3 piętrze. Dolny poziom składa się z : salonu z częścią jadalnianą i kominkiem, kuchni, dużego przedpokoju z 3 szafami, łazienki oraz balkony ok. 10m2. Górny poziom to duży hall - 7,5m2, dwie sypialnie 16,5 m2 oraz 11m2 , garderoba - 7m2 do zagospodarowania na 3 pokój, łazienka z prysznicem i wanną - 7,5m2. W całym mieszkaniu na podłogach panele drewniane- Merbau. Możliwość </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038725223">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 40 m²" class="js-ignore-dppx lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYmFybm5ldC8wL2Jhcm5uZXRfbXNfOTE2N18wLmpwZyN2PTFfMjA4MjI1NDc3Ng==/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-40-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYmFybm5ldC8wL2Jhcm5uZXRfbXNfOTE2N18wLmpwZyN2PTFfMjA4MjI1NDc3Ng==/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>10</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-siodlarska-40m2-mzn2038725223" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Siodlarska </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+10-05-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Bemowo 2-pokojowe mieszkanie 2012 rok</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">539 000 zł</p><p class="single-result__price single-result__price--currency">13 475 zł/m²</p> <meta content="539000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>2</b> pokoje</li> <li><b>40</b> m²</li> <li>piętro <b>1/6</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>OGŁOSZENIE BEZPOŚREDNIE - BEZ PROWIZJI Agencjom nieruchomości i pośrednikom dziękuję, , proszę nie dzwonić. Sprzedajemy mieszkanie bezpośrednio, gdybyśmy zmienili zdanie, sami będziemy się kontaktować z wybraną agencją, bardzo proszę nie dzwonić. Oferuję bezpośrednio (bez prowizji) słoneczne, przestronne dwupokojowe mieszkanie własnościowe o powierzchni użytkowej 40 metrów - gotowe do wprowadzenia. Położone na pierwszym piętrze w 6 piętrowym </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038664116">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Górce, 117 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYmJyb2tlci8yL2Jicm9rZXJfbXNfMTk2Njk4XzAuanBnI3Y9MV8yMDcxODMwNzYw/288/224/4/mieszkanie-na-sprzedaz-warszawa-gorce-117-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYmJyb2tlci8yL2Jicm9rZXJfbXNfMTk2Njk4XzAuanBnI3Y9MV8yMDcxODMwNzYw/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>17</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-gorczewska-117m2-mzn2038664116" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Górce, Górczewska </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+28-04-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Ciche 5-pok. przy St. Metra z miejscem postojowym.</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">997 000 zł</p><p class="single-result__price single-result__price--currency">8521,37 zł/m²</p> <meta content="997000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>5</b> pokoi</li> <li><b>117</b> m²</li> <li>piętro <b>3/4</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Oferta promowana za pomocą MULTIPORTALU NIERUCHOMOŚCI B E B R O K E R . P L Bez prowizji. Ciche i słoneczne mieszkanie dwupoziomowe przy nowobudowanej stacji metra niedaleko ulic Powstańców Śląskich i Górczewskiej. W pobliżu osiedla pełna infrastruktura: szkoła, przedszkole, żłobek, sklep Lidl, Biedronka, Supermarket, Auchman, McDonald, restauracje, przychodni zdrowia i urząd miasta. Tylko dwa mieszkania na piętrze. Mieszkanie 5-pokojowe z </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038479660">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 74 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYmJyb2tlci82L2Jicm9rZXJfbXNfMTk2NDc3XzAuanBnI3Y9MV8yMDM4ODA3NTUz/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-74-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3pkamVjaWEvYmJyb2tlci82L2Jicm9rZXJfbXNfMTk2NDc3XzAuanBnI3Y9MV8yMDM4ODA3NTUz/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>18</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-rozlogi-74m2-mzn2038479660" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Rozłogi </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+21-04-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Bemowo, 4-pokoje, dwustronne z balkonem</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">633 000 zł</p><p class="single-result__price single-result__price--currency">8554,05 zł/m²</p> <meta content="633000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>4</b> pokoje</li> <li><b>74</b> m²</li> <li>piętro <b>3/3</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Oferta promowana za pomocą MULTIPORTALU NIERUCHOMOŚCI B E B R O K E R . P L Mieszkanie 4-pokojowe o pow. 74,52 m2, dwustronne (ekspozycja wschodnia: kuchnia i dwie sypialnie i zachodnia: salon i sypialnia), na 3 piętrze w bloku 3-piętrowym (tylko 2 mieszkania na każdym piętrze). WC i łazienka osobno; balkon (5 m2); komórka lokatorska w piwnicy; domofon. W mieszkaniu zamontowane są mierniki zużycia wody i energii cieplnej, piony wod-kan po </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<aside class="bb-list-slot">
+<div class="bb-ad-outer gamad clear-ad-margin" id="slot-top2-6" style="width: 840px;">
+</div> <div class="clear"></div>
+</aside>
+<div class="row row--property-list" data-id="1mzn2038722823">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 49 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC8yLzMvMS84LzE1MzM2NzIzMTgvMjc1NTE3NS5pbWc=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-49-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC8yLzMvMS84LzE1MzM2NzIzMTgvMjc1NTE3NS5pbWc=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>14</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-synow-pulku-49m2-mzn2038722823" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, ul. Synów Pułku  </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+14-05-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Mieszkanie pełna własność, spółdzielcze, Bemowo</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">605 000 zł</p><p class="single-result__price single-result__price--currency">12 346,94 zł/m²</p> <meta content="605000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>49</b> m²</li> <li>piętro <b>6/10</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Witam. Mam do zaoferowania bardzo ładne , ciche mieszkanie w bardzo dobrej lokalizacji. W pobliżu szkoły, przedszkola, place zabaw, parki, sklepy, siłownia, w niedalekiej przyszłości stacja metra Ratusz Bemowo, hala Wola. Doskonała komunikacja miejska, tramwaje, autobusy. Bardzo blisko do stacji Warszawa- Włochy. Mieszkanie po remoncie, wymienione wszystkie okna oprócz jednego, domofon oraz zamykana krata na korytarzu ( dodatkowa przestrzeń na </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038181400">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Górce, 53 m²" class="js-ignore-dppx lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC8wLzkvOS81LzE1MzMxMzA5OTUvMjY5ODE5NC5pbWc=/288/224/4/mieszkanie-na-sprzedaz-warszawa-gorce-53-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC8wLzkvOS81LzE1MzMxMzA5OTUvMjY5ODE5NC5pbWc=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>11</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-pelczynskiego-52m2-mzn2038181400" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Górce, Pełczyńskiego </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+21-04-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Przestronne mieszkanie na Bemowie +parking&amp;piwnica</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">545 000 zł</p><p class="single-result__price single-result__price--currency">10 302,46 zł/m²</p> <meta content="545000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>2</b> pokoje</li> <li><b>53</b> m²</li> <li>piętro <b>1/4</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>REZERWACJA Bezpośrednio sprzedam ciche, przestronne mieszkanie dwupokojowe na warszawskim Bemowie, blisko Woli i budowanej stacji metra. Zdjęcia z logo agencji, która oferuje możliwość wynajęcia tego lokalu jako alternatywę dla sprzedaży. Mieszkanie dwustronne, o wysokości 2,65m, z oknami na północ i południe, na pierwszym piętrze budynku z 2000 roku (cegła). Blok bez gazu i windy. Na mieszkanie o powierzchni użytkowej 52,9m2 składają się: - </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038440711">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Bemowo, 70 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC8wLzIvMC82LzE1MzMzOTAyMDYvMjcyNDMxNC5pbWc=/288/224/4/mieszkanie-na-sprzedaz-warszawa-bemowo-70-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC8wLzIvMC82LzE1MzMzOTAyMDYvMjcyNDMxNC5pbWc=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>15</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-grodkowska-70m2-mzn2038440711" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Bemowo, Grodkowska </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+27-03-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>3 pokojowe, 70m2, ogródek 110m2, Metro, Wola Park</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">839 000 zł</p><p class="single-result__price single-result__price--currency">11 975,45 zł/m²</p> <meta content="839000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> pokoje</li> <li><b>70</b> m²</li> <li>parter</li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>Dwustronne, jasne mieszkanie w stanie deweloperskim o powierzchni 70,06 m2 w inwestycji ESTEIO, znajdujące się na parterze w apartamentowcu z 2021 roku przy ul. Grodkowskiej na warszawskim Bemowie. Na powierzchnię mieszkania składają się: Salon z aneksem kuchennym – 25,68 m2, Sypialnia – 17,59 m2, Sypialnia – 12,05 m2, Łazienka – 4,40 m2, Przedpokój – 10,34 m2. Największym i niezaprzeczalnym atutem mieszkania są dwa ogródki lokatorskie w tym </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list" data-id="1mzn2038525891">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Mieszkanie na sprzedaż, Warszawa Jelonki Północne, 79 m²" class="js-ignore-dppx lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC81LzMvOC82LzE1MzM0NzUzODYvMjcyOTk4Ni5pbWc=/288/224/4/mieszkanie-na-sprzedaz-warszawa-jelonki-polnocne-79-m.jpg" src="https://staticmorizon.com.pl/t.gif"/>
+<meta content="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRiLmRvbXkucGwvMC81LzMvOC82LzE1MzM0NzUzODYvMjcyOTk4Ni5pbWc=/288/224/4/thumbnail.jpg" itemprop="image"/>
+</div>
+</div>
+<ul class="photoVideo lit-unstyled list-inline">
+<li class="single-result__stats-info"><span class="single-result__ico single-result__ico--photo"></span>7</li>
+</ul>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<meta content="Mieszkanie na sprzedaż" itemprop="category"/>
+<a class="property_link property-url" href="https://www.morizon.pl/oferta/sprzedaz-mieszkanie-warszawa-bemowo-karabeli-78m2-mzn2038525891" itemprop="url" title="">
+<div class="row">
+<div class="col-xs-8">
+<h2 class="single-result__title">
+Warszawa, Jelonki Północne, Karabeli </h2>
+<p class="single-result__category" itemprop="name">
+Mieszkanie na sprzedaż, dodane:
+<span class="single-result__category single-result__category--date">
+28-04-2021 </span>
+</p>
+<h3 class="single-result__category single-result__category--title">
+</h3><p>Rodzinne widne mieszkanie 4 pokoje Warszawa Bemowo</p>
+</div>
+<div class="col-xs-4">
+<p class="single-result__price">750 000 zł</p><p class="single-result__price single-result__price--currency">9517,77 zł/m²</p> <meta content="750000.00" itemprop="price"/>
+<meta content="PLN" itemprop="priceCurrency"/>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>4</b> pokoje</li> <li><b>79</b> m²</li> <li>piętro <b>2/3</b></li> </ul>
+</div>
+<div class="description single-result__description" itemprop="description">
+<p>OFERTA BEZPOŚREDNIO OD WŁAŚCICIELA Oferuję do sprzedaży ciche, widne i wygodne mieszkanie o powierzchni 78,8 m2 na Jelonkach Północnych w dzielnicy Bemowo. Lokal usytuowany jest na 2. piętrze niskiego kameralnego budynku bez windy (tylko 3 piętra i 2 klatki schodowe, dwa mieszkania na piętrze). Mieszkanie składa się z czterech pokoi, kuchni, przedpokoju, łazienki, wc. Pokój 19,8 m2, pokój 15,1 m2, 2 pokoje po 11,2 m2, kuchnia 8,0 m2, przedpokój </p>
+</div>
+</section>
+<div class="more single-result__user-panel">
+<ul class="userPanel list-unstyled list-inline">
+<li>
+<div class="ucFavourite btn btn-link single-result__btn" title="Zapamiętaj/Usuń z zapamiętanych"><span class="single-result__user-panel__ico single-result__user-panel__ico--favourite"></span>
+Zapamiętaj
+</div>
+</li>
+<li>
+<div class="showHide btn btn-link single-result__btn" title="ukryj / odkryj"><span class="single-result__user-panel__ico single-result__user-panel__ico--show-hide"></span>
+Ukryj
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div> </div>
+<div class="row row--property-list">
+<div class="row-content row-property finances single-result mz-card mz-card_no-animation mz-card--listing" itemscope="" itemtype="https://schema.org/Offer">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="" src="/images/reklama-kredytowa-1.png"/>
+</div>
+</div>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<a class="property_link" href="https://www.lendi.pl/ekspert-online/?utm_fp_partner_id=551&amp;utm_fp_source_id=5&amp;utm_medium=main_page&amp;utm_interest=installment_calculation&amp;utm_channel=referer_mzn&amp;utm_form=banner&amp;utm_data_grabber=eko&amp;utm_loan_category=Mortgage&amp;utm_entry_page=https://www.morizon.pl/dzialki/bojszowy/?gclid=EAIaIQobChMI37_X4vvN8AIVXwWiAx0PjgkAEAAYAiAAEgKwTPD_BwE&amp;utm_keyword=Kredyty" itemprop="url" target="_blank" title="Potrzebujesz środków na wymagany wkład własny?">
+</a><div class="row"><a class="property_link" href="https://www.lendi.pl/ekspert-online/?utm_fp_partner_id=551&amp;utm_fp_source_id=5&amp;utm_medium=main_page&amp;utm_interest=installment_calculation&amp;utm_channel=referer_mzn&amp;utm_form=banner&amp;utm_data_grabber=eko&amp;utm_loan_category=Mortgage&amp;utm_entry_page=https://www.morizon.pl/dzialki/bojszowy/?gclid=EAIaIQobChMI37_X4vvN8AIVXwWiAx0PjgkAEAAYAiAAEgKwTPD_BwE&amp;utm_keyword=Kredyty" itemprop="url" target="_blank" title="Potrzebujesz środków na wymagany wkład własny?">
+<div class="col-xs-12">
+<span class="price">
+<div>reklama</div>
+</span>
+<h2 class="single-result__title">
+Potrzebujesz środków na wymagany wkład własny? </h2>
+</div>
+</a>
+</div></header>
+<div class="description single-result__description single-result__description--finances" itemprop="description">
+<p>Doradzimy, jak pozyskać środki na wymagany wkład własny.
+Wspólnie sprawdzimy również Twoją zdolność kredytową. Rozmowa z naszym ekspertem jest bezpłatna
+i do niczego nie zobowiązuje.</p>
+</div>
+<div class="descriptionButton">
+<div class="financeButton">SPRAWDŹ</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer class="row">
+<div class="col-xs-12">
+<nav class="mz-card mz-card--no-shadow mz-card--pagination">
+<div class="mz-card__item mz-card__item--pagination">
+<ul class="nav nav-pills mz-pagination-number">
+<li>
+<a class="mz-pagination-number__btn mz-pagination-number__btn--prev" href="/mieszkania/warszawa/bemowo/" title="poprzednia strona">
+<i class="mz-ico mz-ico-pagination-arrow mz-ico-pagination-mirror"></i>
+</a>
+</li>
+<li>
+<a href="/mieszkania/warszawa/bemowo/">1</a> </li>
+<li>
+<a class="current">2</a>
+</li>
+<li>
+<a href="/mieszkania/warszawa/bemowo/?page=3">3</a> </li>
+<li>
+<a href="/mieszkania/warszawa/bemowo/?page=4">4</a> </li>
+<li>
+<a href="/mieszkania/warszawa/bemowo/?page=5">5</a> </li>
+<li>
+<a href="/mieszkania/warszawa/bemowo/?page=6">6</a> </li>
+<li>
+<a href="/mieszkania/warszawa/bemowo/?page=7">7</a> </li>
+<li>
+<a href="/mieszkania/warszawa/bemowo/?page=8">8</a> </li>
+<li>
+<a href="/mieszkania/warszawa/bemowo/?page=9">9</a> </li>
+<li>
+<a href="/mieszkania/warszawa/bemowo/?page=10">10</a> </li>
+<li>
+<span>...</span>
+</li>
+<li>
+<a href="/mieszkania/warszawa/bemowo/?page=28">28</a> </li>
+<li>
+<a class="mz-pagination-number__btn mz-pagination-number__btn--next" href="/mieszkania/warszawa/bemowo/?page=3" title="następna strona">
+<i class="mz-ico mz-ico-pagination-arrow"></i>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+</div>
+</footer>
+<div id="developerator">
+<header>
+<h2 class="main-page-tabs-title main-page-tabs-title--developerator">Inwestycje, które mogą spełniać Twoje oczekiwania</h2>
+</header>
+<div class="listingBox developmentListingBox">
+<div class="developments">
+<div class="row row--property-list">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Nowa inwestycja - METRO POŁCZYŃSKA, Warszawa Bemowo" class="lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL2Rld2Vsb3Blcnp5Lzg0OTJfd2l6dWFsaXphY2phMS5qcGc=/288/224/4/nowa-inwestycja-metro-polczynska-warszawa-bemowo.jpg" src="https://staticmorizon.com.pl/t.gif"/> </div>
+</div>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<a class="property_link development-url" href="https://www.morizon.pl/inwestycja/metro-polczynska-8492" title="METRO POŁCZYŃSKA, Warszawa, Bemowo, ul. Kopalniana">
+<div class="row">
+<div class="col-xs-12">
+<h2 class="single-result__title">
+Warszawa, Bemowo, ul. Kopalniana </h2>
+<p class="single-result__category">
+METRO POŁCZYŃSKA, oddanie za miesiąc </p>
+<h4 class="single-result__category single-result__category--title">
+</h4><p>METRO POŁCZYŃSKA</p>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>3</b> mieszkania</li>
+<li>o pow. <b>97</b> - <b>111</b> m² </li>
+<li>w cenie <b>819 657</b> - <b>927 803</b> <b>zł</b> </li>
+</ul>
+</div>
+<div class="description single-result__description">
+<p>PROMOCJA! Mieszkania do 20 tysięcy taniej pod hasłem RABATOBIORCY KAMERALNA ARCHITEKTURA NA BEMOWIE Osiedle Metro Połczyńska 2 przy ul. Kopalnianej na Bemowie to nowy etap popularnej inwestycji dewelopera Victoria Dom. Do dyspozycji mieszkańców zostanie oddanych 96 ustawnych i komfortowych mieszkań , w tym dwupoziomowe lokale z antresolami . Do inwestycji należy również garaż podziemny liczący 148 miejsc parkingowych . Lokalizacja osiedla zapewnia szybkie i wygodne połączenie ...</p>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<div class="row row--property-list">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Nowa inwestycja - STELLA IV ETAP, Warszawa Bemowo" class="lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL2Rld2Vsb3Blcnp5LzkxODZfd2l6dWFsaXphY2phMS5qcGc=/288/224/4/nowa-inwestycja-stella-iv-etap-warszawa-bemowo.jpg" src="https://staticmorizon.com.pl/t.gif"/> </div>
+</div>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<a class="property_link development-url" href="https://www.morizon.pl/inwestycja/stella-iv-etap-9186" title="STELLA IV ETAP, Warszawa, Bemowo, ul. Rozłogi 16">
+<div class="row">
+<div class="col-xs-12">
+<h2 class="single-result__title">
+Warszawa, Bemowo, ul. Rozłogi 16 </h2>
+<p class="single-result__category">
+STELLA IV ETAP, oddanie za 10 miesięcy </p>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>11</b> mieszkań</li>
+<li>o pow. <b>30</b> - <b>63</b> m² </li>
+<li></li>
+</ul>
+</div>
+<div class="description single-result__description">
+<p>Bemowo zyskało nowe miejsce, które ma szansę stać się początkiem nowoczesnego stylu dzielnicy. Projekt osiedla Stella, opracowany przez pracownię Mąka – Sojka Architekci, urodą i funkcjonalnością sięga gwiazd. Jego mieszkańcy z pewnością docenią komfort oferowany w oryginalnej bryle mieszczącej łącznie 74 mieszkania . Twórcy pracując nad projektem, myśleli przede wszystkim o potrzebach i wygodzie przyszłych użytkowników. Dzięki temu osiedle Stella zapewni mieszkańcom ...</p>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+<div class="row row--property-list">
+<div class="row-content row-property single-result mz-card mz-card_no-animation mz-card--listing">
+<div class="mz-card__item">
+<div class="row row--property-list">
+<div class="photo single-result__photo">
+<div class="mz-card__img-main">
+<div class="mz-card__img">
+<img alt="Nowa inwestycja - Fantazja na Bemowie, Warszawa Bemowo" class="lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL2Rld2Vsb3Blcnp5LzkxOTFfd2l6dWFsaXphY2phMS5qcGc=/288/224/4/nowa-inwestycja-fantazja-na-bemowie-warszawa-bemowo.jpg" src="https://staticmorizon.com.pl/t.gif"/> </div>
+</div>
+</div>
+<section class="single-result__content single-result__content--height">
+<header>
+<a class="property_link development-url" href="https://www.morizon.pl/inwestycja/fantazja-na-bemowie-9191" title="Fantazja na Bemowie, Warszawa, Bemowo, ul. Kopalniana">
+<div class="row">
+<div class="col-xs-12">
+<h2 class="single-result__title">
+Warszawa, Bemowo, ul. Kopalniana </h2>
+<p class="single-result__category">
+Fantazja na Bemowie, oddanie za rok i 4 miesiące </p>
+</div>
+</div>
+</a>
+</header>
+<div class="info-description single-result__info">
+<ul class="param list-unstyled list-inline">
+<li><b>54</b> mieszkania</li>
+<li>o pow. <b>42</b> - <b>107</b> m² </li>
+<li>w cenie <b>514 743</b> - <b>1 192 255</b> <b>zł</b> </li>
+</ul>
+</div>
+<div class="description single-result__description">
+<p>Klientów zapraszamy do salonu sprzedaży w Hali Koszyki od poniedziałku do piątku w godzinach 9:30 – 17:30 (zmiana godzin od 19.10.2020 – wydłużamy godziny pracy) Fantazja na Bemowie PREMIERA! Fantazja to nowe osiedle zlokalizowane w okolicy Fortu Chrzanów (Bemowo) i planowanej stacji metra Połczyńska . Powstało z myślą o spokojnym życiu w mieście – wygodnych dojazdach i przyjaznej, sąsiedzkiej atmosferze. Projekt wyróżnia nawiązujący do skandynawskiej ...</p>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<script type="text/javascript">VSR.run(function(){ Developerator.initialize('Mieszkanie na sprzedaż, Warszawa Bemowo') }, ["$","Developerator"]);</script>
+<script type="text/javascript">VSR.run(function(){ UserEngage.triggerEvent("wyszukiwanie", ["search_param"]) }, ["DataLayer","UserEngage","MyDocument","GlobalToolsBase","$",["DataLayer","isPushed()"]]);</script> </div>
+<script type="text/javascript">var var_location = 'Bemowo';</script>
+<aside class="content-box-aside col-xs-3">
+<div class="customerBankSeo">
+<section class="mz-card mz-card--no-shadow listing-location-list" data-switch-name="listingLocationListname" data-switch-tabs="listingLocationListtabs" data-tab-identifier="tabs-60a16290b6736" id="listingLocationList">
+<div class="row categories nav-center">
+<ul class="nav nav-pills listing-box-section__menu">
+<li>
+<a data-tab-name="slotLocationListChildren" href="#">Osiedla</a>
+</li>
+<li>
+<a data-tab-name="slotLocationListStreets" href="#">Ulice</a>
+</li>
+<li>
+<a data-tab-name="slotLocationListSubtypes" href="#">Rodzaje</a>
+</li>
+</ul>
+</div>
+<div class="row tabContent">
+<div class="col-xs-12">
+<div class="row slotLocationListChildren" data-tab-name="slotLocationListChildren">
+<div id="locationListChildren">
+<ul>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/gorce/" title="Górce">Górce</a> 36 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/fort-bema/" title="Fort Bema">Fort Bema</a> 36 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo-lotnisko/" title="Bemowo Lotnisko">Bemowo Lotnisko</a> 28 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/chrzanow/" title="Chrzanów">Chrzanów</a> 17 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/jelonki-polnocne/" title="Jelonki Północne">Jelonki Północne</a> 13 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/jelonki-poludniowe/" title="Jelonki Południowe">Jelonki Południowe</a> 8 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/boernerowo/" title="Boernerowo">Boernerowo</a> 3 oferty </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/lotnisko/" title="Lotnisko">Lotnisko</a> 3 oferty </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/fort-radiowo/" title="Fort Radiowo">Fort Radiowo</a> 2 oferty </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/groty/" title="Groty">Groty</a> 1 oferta </li>
+</ul>
+</div>
+<script type="text/javascript">VSR.runWhen$(function(){ $('#locationListChildren a').click(function(e){VSR.run(function(){ GAStat.addEvent('lista','boks SEO z listą lokalizacji','oferty - osiedle'); }, ["GAStat"]);}); });</script>
+</div>
+<div class="row slotLocationListStreets" data-tab-name="slotLocationListStreets" style="display: none;">
+<div id="locationListStreets">
+<ul>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/kopalniana/" title="Kopalniana">Kopalniana</a> 57 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/batalionow-chlopskich/" title="Batalionów Chłopskich">Batalionów Chłopskich</a> 56 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/obroncow-tobruku/" title="Obrońców Tobruku">Obrońców Tobruku</a> 35 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/powstancow-slaskich/" title="Powstańców Śląskich">Powstańców Śląskich</a> 34 oferty </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/lazurowa/" title="Lazurowa">Lazurowa</a> 31 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/obroncow-tobruku/" title="Obrońców Tobruku">Obrońców Tobruku</a> 21 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/wroclawska/" title="Wrocławska">Wrocławska</a> 19 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/pelczynskiego/" title="Pełczyńskiego">Pełczyńskiego</a> 19 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/pirenejska/" title="Pirenejska">Pirenejska</a> 16 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/zaborowska/" title="Zaborowska">Zaborowska</a> 14 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/kawy/" title="Kawy">Kawy</a> 13 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/gorczewska/" title="Górczewska">Górczewska</a> 13 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/synow-pulku/" title="Synów Pułku">Synów Pułku</a> 13 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/rozlogi-16/" title="Rozłogi 16">Rozłogi 16</a> 11 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/grodkowska/" title="Grodkowska">Grodkowska</a> 11 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/szeligowska/" title="Szeligowska">Szeligowska</a> 10 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/waleriana-czumy/" title="Waleriana Czumy">Waleriana Czumy</a> 10 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/osmanczyka/" title="Osmańczyka">Osmańczyka</a> 10 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/borowej-gory/" title="Borowej Góry">Borowej Góry</a> 10 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/blatona/" title="Blatona">Blatona</a> 9 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/rozlogi/" title="Rozłogi">Rozłogi</a> 9 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/antoniego-kocjana/" title="Antoniego Kocjana">Antoniego Kocjana</a> 8 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/wolfkego/" title="Wolfkego">Wolfkego</a> 8 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/morcinka/" title="Morcinka">Morcinka</a> 8 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/czluchowska/" title="Człuchowska">Człuchowska</a> 8 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/batalionow-chlopskich/" title="Batalionów Chłopskich">Batalionów Chłopskich</a> 7 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/dywizjonu-303/" title="Dywizjonu 303">Dywizjonu 303</a> 7 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/pelczynskiego/" title="Pełczyńskiego">Pełczyńskiego</a> 7 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/orlich-gniazd/" title="Orlich Gniazd">Orlich Gniazd</a> 7 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/radiowa/" title="Radiowa">Radiowa</a> 6 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/kossutha/" title="Kossutha">Kossutha</a> 6 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/powstancow-slaskich/" title="Powstańców Śląskich">Powstańców Śląskich</a> 6 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/widawska/" title="Widawska">Widawska</a> 5 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/rosy-bailly/" title="Rosy Bailly">Rosy Bailly</a> 5 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/warszawa/bemowo/bogatynska/" title="Bogatyńska">Bogatyńska</a> 5 ofert </li>
+</ul>
+</div>
+<nav class="navigate clearfix"><span></span><span></span></nav>
+<script type="text/javascript">VSR.runWhen$(function(){
+$('#locationListStreets a').click(function(e){VSR.run(function(){ GAStat.addEvent('lista','boks SEO z listą lokalizacji','oferty - ulica'); }, ["GAStat"]);}); });</script>
+</div>
+<div class="row slotLocationListSubtypes" data-tab-name="slotLocationListSubtypes" style="display: none;">
+<div id="locationListSubtypes">
+<ul>
+<li class="clearfix">
+<a href="/mieszkania/blok/warszawa/bemowo/" title="mieszkania w bloku">mieszkania w bloku</a> 477 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/apartamentowiec/warszawa/bemowo/" title="apartamenty">apartamenty</a> 142 oferty </li>
+<li class="clearfix">
+<a href="/mieszkania/kawalerki/warszawa/bemowo/" title="kawalerki">kawalerki</a> 57 ofert </li>
+<li class="clearfix">
+<a href="/mieszkania/w-kamienicy/warszawa/bemowo/" title="mieszkania w kamienicy">mieszkania w kamienicy</a> 2 oferty </li>
+<li class="clearfix">
+<a href="/mieszkania/dom-wielorodzinny/warszawa/bemowo/" title="domy wielorodzinne">domy wielorodzinne</a> 2 oferty </li>
+</ul>
+</div>
+<script type="text/javascript">VSR.runWhen$(function(){ $('#locationListSubtypes a').click(function(e){VSR.run(function(){ GAStat.addEvent('lista','boks SEO z listą lokalizacji','oferty - rodzaj'); }, ["GAStat"]);}); });</script>
+</div>
+</div>
+</div>
+</section>
+<script type="text/javascript">VSR.run(function(){ $('[data-tab-identifier="tabs-60a16290b6736"]').TabsComponent('slotLocationListChildren') }, [["$","fn","TabsComponent"]]);</script>
+<div class="additional-box-section mz-card mz-card--no-shadow">
+<div class="additional-box-section__title"><span>Polecani pośrednicy<a class="tooltip" data-id="recommendedAgents_60a1662f11bbc" data-qtip="1" data-qtip-options='{"behavior":2,"content":{},"style":{"width":400,"classes":{"tooltip":"recommendedAgents"}},"position":{"at":"left center","my":"right center","adjust":{"screen":true}}}' href="#" onclick="return false;"> </a><div class="hidden" data-id="recommendedAgents_60a1662f11bbc_tip">Wybrani pośrednicy, którzy aktywnie promują swoje oferty w Morizon.pl.</div></span></div>
+<div>
+<div id="recommendedAgents">
+<div class="additional-box-section__single-agent">
+<div class="additional-box-section__single-agent-content">
+<div class="additional-box-section__recommended-agents__photo">
+<a href="https://www.morizon.pl/posrednik/magdalena-pawliczuk-156815" title="Magdalena Pawliczuk"><img alt="Magdalena Pawliczuk" class="lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3V6eXRrb3duaWN5LzUyNTMyZWJjYjJhZmExNzg1ZmI5ODE4YmE1NjVkZmQyLmpwZw==/60/80/4/magdalena-pawliczuk.png" src="https://staticmorizon.com.pl/t.gif"/></a> </div>
+<div class="additional-box-section__recommended-agents__info">
+<a class="additional-box-section__recommended-agents__info__agent-name" href="https://www.morizon.pl/posrednik/magdalena-pawliczuk-156815" title="Magdalena Pawliczuk">Magdalena Pawliczuk</a> <p class="additional-box-section__recommended-agents__info__company-name">
+Propertica Sp. z o. o. </p>
+<p>
+tel.
+503 01 ...
+<span class="additional-box-section__recommended-agents__info__show-phone js-recommended-agent-show-phone" data-id="156815" data-phone="503 013 617">POKAŻ</span>
+</p>
+</div>
+</div>
+<script type="text/javascript">VSR.run(function(){
+RecommendAgent.addCompanyAgent(156815, new CompanyAgent('156815'))
+RecommendAgent.addLeadStats(156815, new LeadStats('Pośrednik', 'posrednik-156815', 'Pośrednik', false)) }, ["RecommendAgent"]);</script> </div>
+<div class="additional-box-section__single-agent">
+<div class="additional-box-section__single-agent-content">
+<div class="additional-box-section__recommended-agents__photo">
+<a href="https://www.morizon.pl/posrednik/lukasz-sius-149208" title="Łukasz Sius"><img alt="Łukasz Sius" class="lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3V6eXRrb3duaWN5Lzc3ZmNhMjQ3MGZhODU0YzZmZjkzMTM2YzU4YjdmYWI0LmpwZw==/60/80/4/lukasz-sius.png" src="https://staticmorizon.com.pl/t.gif"/></a> </div>
+<div class="additional-box-section__recommended-agents__info">
+<a class="additional-box-section__recommended-agents__info__agent-name" href="https://www.morizon.pl/posrednik/lukasz-sius-149208" title="Łukasz Sius">Łukasz Sius</a> <p class="additional-box-section__recommended-agents__info__company-name">
+Małycha Nieruchomości Premium </p>
+<p>
+tel.
+517 48 ...
+<span class="additional-box-section__recommended-agents__info__show-phone js-recommended-agent-show-phone" data-id="149208" data-phone="517 486 722">POKAŻ</span>
+</p>
+</div>
+</div>
+<script type="text/javascript">VSR.run(function(){
+RecommendAgent.addCompanyAgent(149208, new CompanyAgent('149208'))
+RecommendAgent.addLeadStats(149208, new LeadStats('Pośrednik', 'posrednik-149208', 'Pośrednik', false)) }, ["RecommendAgent"]);</script> </div>
+<div class="additional-box-section__single-agent">
+<div class="additional-box-section__single-agent-content">
+<div class="additional-box-section__recommended-agents__photo">
+<a href="https://www.morizon.pl/posrednik/grzegorz-matryba-139966" title="Grzegorz Matryba"><img alt="Grzegorz Matryba" class="lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cDovL21lZGlhLmRvbXkucGwvaW1nL3V6eXRrb3duaWN5L2FhN2M2NjgxN2JlNTc4Y2Y4ZmMwYTIzMGJhYTk5YjQ0LmpwZw==/60/80/4/grzegorz-matryba.png" src="https://staticmorizon.com.pl/t.gif"/></a> </div>
+<div class="additional-box-section__recommended-agents__info">
+<a class="additional-box-section__recommended-agents__info__agent-name" href="https://www.morizon.pl/posrednik/grzegorz-matryba-139966" title="Grzegorz Matryba">Grzegorz Matryba</a> <p class="additional-box-section__recommended-agents__info__company-name">
+Emmerson Zarządzanie Sp. z o.o. </p>
+<p>
+tel.
+516 00 ...
+<span class="additional-box-section__recommended-agents__info__show-phone js-recommended-agent-show-phone" data-id="139966" data-phone="516 000 514">POKAŻ</span>
+</p>
+</div>
+</div>
+<script type="text/javascript">VSR.run(function(){
+RecommendAgent.addCompanyAgent(139966, new CompanyAgent('139966'))
+RecommendAgent.addLeadStats(139966, new LeadStats('Pośrednik', 'posrednik-139966', 'Pośrednik', false)) }, ["RecommendAgent"]);</script> </div>
+</div>
+</div>
+</div>
+<script type="text/javascript">VSR.run(function(){ RecommendAgent.init(); }, ["RecommendAgent"]);</script>
+<aside class="bb-ad-right-box">
+<div class="bb-ad-outer gamad clear-ad-margin" id="slot-right" style="width: 160px;">
+</div> </aside>
+<div class="mz-card mz-card--no-shadow popular-list" id="handPickedLinks">
+<div class="row categories">
+<ul class="nav nav-pills listing-box-section__menu">
+<li>
+<a class="selected" href="#">Popularne</a>
+</li>
+</ul>
+</div>
+<div class="row tabContent">
+<div class="col-xs-12">
+<ul>
+<li class="clearfix"><a href="/mieszkania/">Sprzedaż mieszkań</a></li>
+<li class="clearfix"><a href="/do-wynajecia/mieszkania/torun/">Mieszkania do wynajęcia Toruń</a></li>
+<li class="clearfix"><a href="/mieszkania/wroclaw/">Mieszkania na sprzedaż Wrocław</a></li>
+<li class="clearfix"><a href="/do-wynajecia/mieszkania/szczecin/">Mieszkania do wynajęcia Szczecin</a></li>
+<li class="clearfix"><a href="/mieszkania/katowice/">Mieszkania na sprzedaż Katowice</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="smallWidgetCustomersBank mz-card mz-card--no-shadow">
+<form data-cbox-type="7" data-title="Potwierdzenie" id="sfw" method="post" name="sfw" onsubmit="return $(this).MyFabulousColorbox('5533566963324e796158423061573975526d3979625664705a47646c64413d3d', '59546f774f6e7439')"> <input class="customHidden" id="sfw_params" name="sfw[params]" type="hidden" value="YTo5OntzOjg6ImxvY2F0aW9uIjtDOjE5OiJMb2NhdGlvblNlYXJjaFBhcmFtIjozNTA6e2E6Nzp7czoxMzoibG9jYXRpb25fdHlwZSI7aToxO3M6ODoibG9jYXRpb24iO0M6MTA6IlN0cmluZ0xpc3QiOjMzOnthOjE6e2k6MDtzOjE1OiJXYXJzemF3YSBCZW1vd28iO319czoxMjoibG9jYXRpb25faWRzIjtDOjEwOiJTdHJpbmdMaXN0Ijo2OnthOjA6e319czoxNjoibG9jYXRpb25fZXhjbHVkZSI7QzoxMDoiU3RyaW5nTGlzdCI6Njp7YTowOnt9fXM6NzoiY291bnRyeSI7QzoxMDoiU3RyaW5nTGlzdCI6Njp7YTowOnt9fXM6MTU6ImNvdW50cnlfZXhjbHVkZSI7QzoxMDoiU3RyaW5nTGlzdCI6Njp7YTowOnt9fXM6OToicHJlY2lzaW9uIjtDOjIxOiJNYXBQcmVjaXNpb25zTGlzdFVzZXIiOjY6e2E6MDp7fX19fXM6NToidHlwZXMiO0M6MTI6IlR5cGVMaXN0VXNlciI6MTQ6e2E6MTp7aTowO2k6MTt9fXM6MTE6InRyYW5zYWN0aW9uIjtpOjE7czoxODoiZGljdF9idWlsZGluZ190eXBlIjtDOjExOiJJbnRlZ2VyTGlzdCI6Njp7YTowOnt9fXM6MTU6ImRpY3RfaG91c2VfdHlwZSI7QzoxMToiSW50ZWdlckxpc3QiOjY6e2E6MDp7fX1zOjE0OiJkaWN0X3Bsb3RfdHlwZSI7QzoxMToiSW50ZWdlckxpc3QiOjY6e2E6MDp7fX1zOjIyOiJkaWN0X2J1aWxkaW5nX21hdGVyaWFsIjtDOjExOiJJbnRlZ2VyTGlzdCI6Njp7YTowOnt9fXM6MTY6ImRpY3RfYWNjZXNzX3JvYWQiO0M6MTE6IkludGVnZXJMaXN0Ijo2OnthOjA6e319czoxMDoib3duZXJfdHlwZSI7QzoxMzoiT3duZXJUeXBlTGlzdCI6Njp7YTowOnt9fX0="/><input class="customHidden" id="sfw_key" name="sfw[key]" type="hidden" value="65a687b792e0b7835ceca317c96ff17b"/><input class="customHidden" id="sfw_subscription" name="sfw[subscription]" type="hidden" value="1"/><input class="customHidden" id="sfw_tos" name="sfw[tos]" type="hidden" value="1"/>
+<div class="title">
+Wyszukamy oferty <br/> za Ciebie! </div>
+<div class="content genericForm">
+<p>Zapisz się na bezpłatne powiadomienia o nowych ofertach spełniających podane przez Ciebie kryteria.</p>
+<input class="customText" data-hint="wpisz e-mail" id="sfw_email" name="sfw[email]" type="text" value="wpisz e-mail"/> </div>
+<div class="additionalFormFields">
+</div>
+<script>
+VSR.run(function () {
+Popover.loadPopovers('.js-consent-info');
+}, ['Popover']);
+</script>
+<input class="submitButton" data-message-error="" data-message-loading="" name="commit" onfocus="blur()" type="submit" value="Zapisz się"/><!-- <span class="fabulous_error_box property_search_form_error_box clearfix"></span>-->
+</form> <div class="message-tos-link">
+<a href="/ochrona-danych" onclick="var w=window.open(this.href);w.focus();return false;">O ochronie danych osobowych</a> </div>
+<div></div>
+</div>
+<script type="text/javascript">
+VSR.run(function () {
+SubscriptionFormIM.setupForm(sfw);
+}, ["SubscriptionFormIM"]);
+</script>
+</div>
+</aside>
+</div>
+</div>
+</div>
+<section class="blog-articles" id="blog-articles">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<h2 class="main-page-tabs-title main-page-tabs-title--blog-articles">Warto przeczytać</h2>
+<div class="blog-articles-wrap row">
+<div class="blog-article js-blog-article col-xs-4">
+<a href="https://www.morizon.pl/blog/lustrzany-dom-spod-warszawy-podbija-swiat/" title="Lustrzany dom spod Warszawy podbija świat">
+<div class="mz-card">
+<div class="mz-card__item">
+<div class="card-change-order">
+<div class="card-change-order--top">
+<div class="blog-article__content">
+<p class="blog-article__title">
+Lustrzany dom spod Warszawy podbija świat </p>
+<p class="blog-article__desc">
+Lustrzany dom autorstwa Marcina Tomaszewskiego z łódzkiego studia REFORM l zaciekawił architektów z wielu krajów. O budynku, który stanąć ma w lesie pod Warszawą (dokładnie w miejscowości Izabelin), rozpisują się branżowe serwisy z całego świata. Brytyjski dailymail.co.uk stwierdził, że będzie to idealne miejsce dla odpoczynku, a popularny portal archdaily.com i co najmniej 20 innych serwisów również nie ustawały w pochwałach tego projektu. Lustrzany dom w środku lasu Co zrobiło tak wielkie wraż </p>
+</div>
+</div>
+<div class="card-change-order--bottom">
+<div class="mz-card__img-main mz-card__img-main--blog-articles">
+<div class="mz-card__img">
+<img alt="Lustrzany dom spod Warszawy podbija świat" class="lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cHM6Ly93d3cubW9yaXpvbi5wbC9ibG9nL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzAzL2x1c3RyemFueS1kb20tc3R1ZGlvLXJlZm9ybS5qcGc=/310/186/4/lustrzany-dom-spod-warszawy-podbija-swiat.jpg" src="https://staticmorizon.com.pl/t.gif"/> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="blog-article js-blog-article col-xs-4">
+<a href="https://www.morizon.pl/blog/nowe-inwestycje-na-warszawskiej-woli/" title="Nowe inwestycje na warszawskiej Woli">
+<div class="mz-card">
+<div class="mz-card__item">
+<div class="card-change-order">
+<div class="card-change-order--top">
+<div class="blog-article__content">
+<p class="blog-article__title">
+Nowe inwestycje na warszawskiej Woli </p>
+<p class="blog-article__desc">
+O zaletach mieszkania na Woli wspomnieliśmy już w tekście o inwestycjach, które oddane zostaną jeszcze w roku 2015. Mieszkanie na Woli decyduje się kupić coraz więcej warszawiaków, ponieważ dawna dzielnica robotnicza zmienia swój charakter dosłownie na naszych oczach, a dostępność nowych inwestycji mieszkaniowych kusi klientów. W miejscu zrujnowanych fabryk powstają błyskawicznie nowoczesne siedziby firm. Okolica wokół Ronda Daszyńskiego, gdzie otwarty został ostatni na razie przystanek drugiej </p>
+</div>
+</div>
+<div class="card-change-order--bottom">
+<div class="mz-card__img-main mz-card__img-main--blog-articles">
+<div class="mz-card__img">
+<img alt="Nowe inwestycje na warszawskiej Woli" class="lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cHM6Ly93d3cubW9yaXpvbi5wbC9ibG9nL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzEwL2VzcHJlc3NvMjEuanBn/310/186/4/nowe-inwestycje-na-warszawskiej-woli.jpg" src="https://staticmorizon.com.pl/t.gif"/> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="blog-article js-blog-article col-xs-4">
+<a href="https://www.morizon.pl/blog/nowe-inwestycje-w-warszawskim-srodmiesciu/" title="Nowe inwestycje w warszawskim Śródmieściu">
+<div class="mz-card">
+<div class="mz-card__item">
+<div class="card-change-order">
+<div class="card-change-order--top">
+<div class="blog-article__content">
+<p class="blog-article__title">
+Nowe inwestycje w warszawskim Śródmieściu </p>
+<p class="blog-article__desc">
+Wydawać by się mogło, że w gęstej zabudowie warszawskiego Śródmieścia trudno już w tej chwili o nowe inwestycje. Jednak i tutaj znajdziemy propozycje mieszkaniowe nie tylko w coraz staranniej restaurowanych kamienicach, ale też nowych apartamentowcach. Nie są to niestety najczęściej propozycje tanie ze względu na atrakcyjność Śródmieścia, gdzie rzeczywiście tętni życie stolicy. Znajdziemy tu najszerszą ofertę kulturalną miasta, liczne kawiarnie i modne restauracje oraz rozbudowaną infrastrukturę </p>
+</div>
+</div>
+<div class="card-change-order--bottom">
+<div class="mz-card__img-main mz-card__img-main--blog-articles">
+<div class="mz-card__img">
+<img alt="Nowe inwestycje w warszawskim Śródmieściu" class="lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cHM6Ly93d3cubW9yaXpvbi5wbC9ibG9nL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzEwL2thbWllbmljYS1tdXJhbm93MS5qcGc=/310/186/4/nowe-inwestycje-w-warszawskim-srodmiesciu.jpg" src="https://staticmorizon.com.pl/t.gif"/> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="blog-article js-blog-article col-xs-4">
+<a href="https://www.morizon.pl/blog/najlepsza-kawa-w-warszawie-gdzie-ja-wypijesz/" title="Najlepsza kawa w Warszawie – 13 kultowych miejsc!">
+<div class="mz-card">
+<div class="mz-card__item">
+<div class="card-change-order">
+<div class="card-change-order--top">
+<div class="blog-article__content">
+<p class="blog-article__title">
+Najlepsza kawa w Warszawie – 13 kultowych miejsc! </p>
+<p class="blog-article__desc">
+Pobudzające espresso z rana, karmelowe macchiato w południe czy słodkie cappuccino przy wieczornych pogaduchach ze znajomymi... Na smak kawy wpływa nie tylko dobór ziaren i sposób jej przyrządzania, ale także to, w czym ją pijemy i w jakim otoczeniu. W Warszawie wybór kawiarni jest ogromny - polecamy zarówno miejsca już kultowe, jak i mniej znane kafejki. Sprawdź, gdzie jest podawana najlepsza kawa w Warszawie i gdzie warto zamieszkać, aby mieć najbliżej do najlepszych kawiarni w stolicy! W stol </p>
+</div>
+</div>
+<div class="card-change-order--bottom">
+<div class="mz-card__img-main mz-card__img-main--blog-articles">
+<div class="mz-card__img">
+<img alt="Najlepsza kawa w Warszawie – 13 kultowych miejsc!" class="lazy" data-original="https://img2.staticmorizon.com.pl/thumbnail/aHR0cHM6Ly93d3cubW9yaXpvbi5wbC9ibG9nL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzAyL05hbmEtY2FmZS13YXJzemF3YS5qcGc=/310/186/4/najlepsza-kawa-w-warszawie-8211-13-kultowych-miejsc.jpg" src="https://staticmorizon.com.pl/t.gif"/> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="blog-article js-blog-article col-xs-4">
+<a href="https://www.morizon.pl/blog/warszawskie-osiedla-12-miejsc/" title="Warszawskie osiedla z wyjątkową historią: 12 niezwykłych miejsc">
+<div class="mz-card">
+<div class="mz-card__item">
+<div class="card-change-order">
+<div class="card-change-order--top">
+<div class="blog-article__content">
+<p class="blog-article__title">
+Warszawskie osiedla z wyjątkową historią: 12 niezwykłych miejsc </p>
+<p class="blog-article__desc">
+Próba stworzenia nowego i sprawdzającego się w naszych warunkach klimatycznych stylu budownictwa mieszkalnego to zaledwie jeden z wielu celów, którymi kierowali się projektanci warszawskich kolonii mieszkalnych. Wiele z tych założeń powstało i się sprawdziło, inne pozostały na papierze. Jaka jest historia warszawskich osiedli? Stworzenie przestrzeni przyjaznej mieszkańcom, w której będzie można spokojnie i wygodnie żyć i która będzie sprzyjała integracji oraz tworzeniu się lokalnych społecznośc </p>
+</div>
+</div>
+<div class="card-change-order--bottom">
+<div class="mz-card__img-main mz-card__img-main--blog-articles">
+<div class="mz-card__img">
+<img alt="Warszawskie osiedla z wyjątkową historią: 12 niezwykłych miejsc" class="lazy" data-original="https://img3.staticmorizon.com.pl/thumbnail/aHR0cHM6Ly93d3cubW9yaXpvbi5wbC9ibG9nL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzA5L09zaWVkbGVfWmFfemVsYXpuYV9CcmFtel9sYXRhXzcwLmpwZw==/310/186/4/warszawskie-osiedla-z-wyjatkowa-historia-12-niezwyklych.jpg" src="https://staticmorizon.com.pl/t.gif"/> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="blog-article js-blog-article col-xs-4">
+<a href="https://www.morizon.pl/blog/hala-koszyki-wielki-powrot/" title="Hala Koszyki – wielki powrót">
+<div class="mz-card">
+<div class="mz-card__item">
+<div class="card-change-order">
+<div class="card-change-order--top">
+<div class="blog-article__content">
+<p class="blog-article__title">
+Hala Koszyki – wielki powrót </p>
+<p class="blog-article__desc">
+10 lat temu zamykano ją i rozbierano przy protestach aktywistów miejskich. Od października 2016 roku Hala Koszyki znów będzie cieszyć stolicę po ponad 10 latach przebudowy i rewitalizacji budynku. Ma stać się ważnym punktem nie tylko biurowym, ale i gastronomicznym, oferującym kuchnię niemal ze wszystkich stron świata. Będą tu bowiem także działać liczne restauracje i sklepy z ekologiczną żywnością. Hala Koszyki - historia Zaprojektowana w secesyjnym stylu przez Juliusza Dzierżanowskiego i wznie </p>
+</div>
+</div>
+<div class="card-change-order--bottom">
+<div class="mz-card__img-main mz-card__img-main--blog-articles">
+<div class="mz-card__img">
+<img alt="Hala Koszyki – wielki powrót" class="lazy" data-original="https://img1.staticmorizon.com.pl/thumbnail/aHR0cHM6Ly93d3cubW9yaXpvbi5wbC9ibG9nL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE2LzEwL2tvc3p5a2kzLTEuanBn/310/186/4/hala-koszyki-8211-wielki-powrot.jpg" src="https://staticmorizon.com.pl/t.gif"/> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 text-center">
+<a class="btn mz-btn mz-btn--success" href="https://www.morizon.pl/blog">
+Zobacz więcej na blogu
+</a>
+</div>
+</div>
+</div>
+</section>
+<script type="text/javascript">VSR.run(function(){ BlogPostsListing.cutTitles() }, ["BlogPostsListing"]);</script>
+<script type="text/javascript">
+VSR.run(function () {
+TruncateText.truncateContent(
+$('.js-blog-article'),
+'.blog-article__title',
+'.blog-article__desc',
+165,
+0,
+0
+);
+}, ['TruncateText', ['$', 'fn', 'truncate']]);
+</script>
+<div class="location-types-navigation">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 location-types-navigation__main">
+<div class="location-types-navigation__list">
+<h2 class="location-types-navigation__title">Nieruchomości na sprzedaż</h2>
+<ul class="nav nav-pills nav-pills--location-types-navigation">
+<li>
+<a class="btn--location-types-navigation" href="/nowe-mieszkania/warszawa/bemowo/">Nowe mieszkania na sprzedaż Warszawa Bemowo</a> </li>
+<li>
+<a class="btn--location-types-navigation" href="/nowe-domy/warszawa/bemowo/">Nowe domy na sprzedaż Warszawa Bemowo</a> </li>
+<li>
+<a class="btn--location-types-navigation" href="/domy/warszawa/bemowo/">Domy na sprzedaż Warszawa Bemowo</a> </li>
+<li>
+<a class="btn--location-types-navigation" href="/dzialki/warszawa/bemowo/">Działki na sprzedaż Warszawa Bemowo</a> </li>
+<li>
+<a class="btn--location-types-navigation" href="/nowe-komercyjne/warszawa/bemowo/">Nowe komercyjne na sprzedaż Warszawa Bemowo</a> </li>
+<li>
+<a class="btn--location-types-navigation" href="/komercyjne/warszawa/bemowo/">Komercyjne na sprzedaż Warszawa Bemowo</a> </li>
+</ul>
+</div>
+<div class="location-types-navigation__list">
+<h2 class="location-types-navigation__title">Nieruchomości do wynajęcia</h2>
+<ul class="nav nav-pills nav-pills--location-types-navigation">
+<li>
+<a class="btn--location-types-navigation" href="/do-wynajecia/mieszkania/warszawa/bemowo/">Mieszkania do wynajęcia Warszawa Bemowo</a> </li>
+<li>
+<a class="btn--location-types-navigation" href="/do-wynajecia/domy/warszawa/bemowo/">Domy do wynajęcia Warszawa Bemowo</a> </li>
+<li>
+<a class="btn--location-types-navigation" href="/do-wynajecia/pokoje/warszawa/bemowo/">Pokoje do wynajęcia Warszawa Bemowo</a> </li>
+<li>
+<a class="btn--location-types-navigation" href="/do-wynajecia/komercyjne/warszawa/bemowo/">Komercyjne do wynajęcia Warszawa Bemowo</a> </li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<footer class="site-footer">
+<div class="container">
+<div class="row">
+<div class="col-xs-9 col-xs-push-3 site-footer__column site-footer__links-column">
+<div class="col-xs-3 site-footer__column">
+<h3 class="site-footer__column-title">Nieruchomości <i class="arrow arrowDown"></i>
+</h3>
+<ul class="list-unstyled site-footer__links-list">
+<li>
+<a href="/mapa/mieszkania/">Mieszkania na mapie</a> </li>
+<li><a href="/mapa/domy/">Domy na mapie</a></li>
+<li><a href="/mapa/komercyjne/">Komercyjne na mapie</a></li>
+<li>
+<a href="/mapa/komercyjne/biurowce/">Biurowce na mapie</a> </li>
+<li>
+<a href="/mapa/komercyjne/biura/">Biura na mapie</a> </li>
+<li><a href="/mapa/do-wynajecia/pokoje/">Stancje na mapie</a></li>
+<li><a href="/zgloszenie-zapotrzebowania">Zgłoś czego szukasz</a></li>
+</ul>
+</div>
+<div class="col-xs-3 site-footer__column">
+<h3 class="site-footer__column-title">Usługi <i class="arrow arrowDown"></i></h3>
+<ul class="list-unstyled site-footer__links-list">
+<li><a href="/oferta-wspolpracy">Dla agencji nieruchomości</a></li>
+<li>
+<a href="https://ofertadladeweloperow.morizon.pl/" rel="nofollow">Dla deweloperów</a></li>
+<li><a href="/wspolpraca/reklama">Dla reklamodawców</a></li>
+<li><a href="/kupbaner">Kup baner do wywieszenia</a></li>
+<li><a href="/wnetrze-w-3D">Zamów wnętrze w 3D</a></li>
+<li><a href="/zgloszenie">Dodaj ogłoszenie</a></li>
+<li><a href="/cennik">Cennik</a></li>
+</ul>
+</div>
+<div class="col-xs-3 site-footer__column">
+<h3 class="site-footer__column-title">Grupa Morizon <i class="arrow arrowDown"></i>
+</h3>
+<ul class="list-unstyled site-footer__links-list">
+<li><a href="/o-nas">O nas</a></li>
+<li><a href="/plan-polaczenia-spolek/">Plan połączenia spółek</a></li>
+<li>
+<a href="http://relacjeinwestorskie.morizon.pl/" rel="nofollow">Relacje inwestorskie</a> </li>
+<li><a href="/kontakt">Kontakt</a></li>
+</ul>
+</div>
+<div class="col-xs-3 site-footer__column">
+<h3 class="site-footer__column-title">Inne <i class="arrow arrowDown"></i></h3>
+<ul class="list-unstyled site-footer__links-list">
+<li class="financesLink"><a href="https://www.lendi.pl/ekspert-online/?utm_fp_partner_id=551&amp;utm_fp_source_id=5&amp;utm_medium=main_page&amp;utm_interest=installment_calculation&amp;utm_channel=referer_mzn&amp;utm_form=text_link&amp;utm_data_grabber=eko&amp;utm_loan_category=Mortgage&amp;utm_entry_page={{utm_entry_page}}&amp;utm_keyword=Kredyty">Kredyty</a></li>
+<li><a href="https://www.morizon.pl/blog/">Blog</a></li>
+<li>
+<a href="https://www.morizon.pl/blog/zapytaj/" rel="nofollow" target="_blank">Zapytaj eksperta</a> </li>
+<li>
+<a class="mobileLink" href="https://m.morizon.pl/mieszkania/warszawa/bemowo/?page=2">Wersja mobilna</a> </li>
+<li class="newLine newLineMap"><a href="/regulamin">Regulamin</a></li>
+<li><a href="/polityka_cookies">Polityka cookies</a></li>
+<li><a href="/ochrona-danych">Ochrona danych</a></li>
+</ul>
+</div>
+</div>
+<div class="col-xs-3 col-xs-pull-9 site-footer__column site-footer__social-links-column">
+<div>
+<div class="site-footer__apps-social-links">
+<div class="appLinks appLinksDown">
+<a class="androidApp" href="https://play.google.com/store/apps/details?id=pl.morizon.client&amp;referrer=af_tranid%3DukV6XW5IkSEOk4idLwfBEA%26pid%3Dmorizon_stopka" rel="nofollow" target="_blank">Pobierz z <strong>Google Play</strong></a> <a class="iOsApp" href="https://itunes.apple.com/pl/app/id531102542?mt=8&amp;pid=morizon_stopka" rel="nofollow" target="_blank">Pobierz w <strong>App Store</strong></a> <a class="appGallery" href="https://appgallery.huawei.com/#/app/C103492357?pid=morizon_stopka" rel="nofollow" target="_blank">Odkrywaj w <strong>AppGallery</strong></a> </div>
+<div class="socialLinks">
+<a class="fbLink" href="https://www.facebook.com/morizon" rel="nofollow" target="_blank">Facebook</a> <a class="igLink" href="https://www.instagram.com/morizonpl" rel="nofollow" target="_blank">Instagram</a> </div>
+</div>
+<div class="site-footer__copy-info">
+<p class="copy">
+© 2021 MZN Property S.A. <em></em> Wszelkie prawa zastrzeżone. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<div id="endFooter"></div>
+</div>
+<script type="text/javascript">VSR.run(function(){
+myStatJs.scanForEvents('body *');
+MyDocument.runOnReady();
+}, ["$","myStatJs","MyDocument","GAStat"],1);</script>
+<script type="text/javascript">
+VSR.run(function(){GAMAdserver.loadScript('top3, right, right2, top2-1, top2-2, top2-3, top2-4, top2-5, top2-6, 2.6.11, panel, panel2, panel1, rightOnGallery', '', 'kat=nieruchomosci;podkat=mieszkania;typstr=lista_ogloszen;region=mazowieckie;miasto=warszawa;breadcrubms=mazowieckie,warszawa,bemowo;typoferty=sprzedaz;cena_od=;cena_do=;rynek=;powierzchnia_od=;powierzchnia_do=;fraza=;partner_id=');}, ['GAMAdserver']);
+</script>
+<script type="text/javascript">VSR.run(function(){ RUM.onLoad(); }, ["RUM"],1);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam-cell.nr-data.net","licenseKey":"fd30f522d4","applicationID":"5479717","transactionName":"Z1JQMUtVVkVTVhYPWV4YcwZNXVdYHUUQCUZVRUYMXEcXWltGFg==","queueTime":0,"applicationTime":251,"atts":"SxVTRwNPRUs=","errorBeacon":"bam-cell.nr-data.net","agent":""}</script>
+</div>

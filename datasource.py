@@ -4,7 +4,7 @@ from config import Config
 DSN = Config.DSN
 class Postgres:
     def __init__(self, dsn=None, read_write=None):
-        self.dsn = self.DSN
+        self.dsn = dsn
         self.read_write = read_write
         self.conn = psycopg2.connect(self.dsn)
 

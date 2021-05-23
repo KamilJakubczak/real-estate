@@ -1,6 +1,7 @@
 from abc import ABC
 from dataclasses import dataclass
 from datasource import Postgres
+from config import Config
 
 
 @dataclass
@@ -47,7 +48,6 @@ class OtodomOffers:
             id=article['id'],
             url=article['data-url']
         )
-        # print(article['data-url'])
         return cls(offer)
 
     @staticmethod
@@ -65,7 +65,7 @@ class OtodomOffers:
             return tag
 
     def save_to_db(self):
-        db = Postgres()
+        db = Postgres(Config.DSN)
         try:
             db.execute(
                 '''
@@ -119,6 +119,7 @@ class MorizonOffers:
 
     @classmethod
     def from_html(cls, article):
+
         try:
             id=article['data-id']
         except:
@@ -145,7 +146,6 @@ class MorizonOffers:
                     'a',
                     'property_link property-url')['href']
             )
-
         return cls(offer)
 
 
@@ -167,7 +167,7 @@ class MorizonOffers:
             return tag
 
     def save_to_db(self):
-        db = Postgres()
+        db = Postgres(Config.DSN)
         try:
             db.execute(
                 '''
@@ -205,6 +205,7 @@ class MorizonOffers:
                     ]
                 )
         except:
-            pass
+            print('Not saved ', self.offer)
+
         db.commit()
 
